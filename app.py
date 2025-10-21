@@ -104,7 +104,7 @@ with col[1]:
         st.metric(label=last_province_name, value=last_province_population, delta=last_province_delta, border=True)
 
 with col[0]: 
-    st.markdown(f'#### {data_source} in {selected_year} (thoudsands) ')
+    st.markdown(f'#### Population in {selected_year} (thoudsands) ')
     st.dataframe(
         data_selected_year_sorted,#.head(10), 
         column_order = ("Province", "Population"), 
