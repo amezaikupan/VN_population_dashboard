@@ -171,7 +171,7 @@ with col[0]:
         column_order = ("Province", "Population"), 
         hide_index=True, 
         # width=None,
-        height=450, 
+        height=380, 
         column_config={
             "Province": st.column_config.TextColumn(
                 "Provinces",
