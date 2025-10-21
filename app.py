@@ -26,11 +26,11 @@ st.markdown("""
 
 alt.themes.enable("dark")
 
-data = pd.read_csv("proc_data/vn_population.csv", index_col=False)
-density_data = pd.read_csv("proc_data/vn_population_density.csv", index_col=False)
-migration_data = pd.read_csv("proc_data/vn_migration.csv", index_col=False)
-sex_ratio_data = pd.read_csv("proc_data/vn_sex_ratio.csv", index_col=False)
-city_countryside_data = pd.read_csv('proc_data/vn_city_countryside_dist.csv', index_col=False)
+data = pd.read_csv("data/vn_population.csv", index_col=False)
+density_data = pd.read_csv("data/vn_population_density.csv", index_col=False)
+migration_data = pd.read_csv("data/vn_migration.csv", index_col=False)
+sex_ratio_data = pd.read_csv("data/vn_sex_ratio.csv", index_col=False)
+city_countryside_data = pd.read_csv('data/vn_city_countryside_dist.csv', index_col=False)
 
 color_theme = 'RdYlGn_r'
 data_sources = {
