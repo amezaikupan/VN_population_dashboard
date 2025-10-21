@@ -24,8 +24,6 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-alt.themes.enable("dark")
-
 data = pd.read_csv("data/vn_population.csv", index_col=False)
 density_data = pd.read_csv("data/vn_population_density.csv", index_col=False)
 migration_data = pd.read_csv("data/vn_migration.csv", index_col=False)
