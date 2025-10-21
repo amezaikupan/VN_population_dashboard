@@ -1,6 +1,6 @@
 # Mini project: Vietnam Population Dashboard 
 
-Simple visualization of Vietnam population from 2011 to 2024.
+Simple visualization of Vietnam population from 2011 to 2024. App is deployed [here](https://amezaikupan-vn-population-dashboard-app-cfemtn.streamlit.app/).
 
 ![Dashboard preview](img/dashboard_preview.png)
 
