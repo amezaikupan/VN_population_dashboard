@@ -40,7 +40,7 @@ data_sources = {
 }
 
 # ____HEADER____
-title, year_select, map_mode = st.columns([2, 1, 1])
+title, year_select, map_mode = st.columns([4, 1.75, 1.75])
 with map_mode:
     data_source = st.selectbox("Select data display on map", list(data_sources.keys()))
     map_display_data = data_sources[data_source]
@@ -119,7 +119,7 @@ with col[0]:
                 "Population", 
                 format="%f", 
                 min_value=0, 
-                max_value=max(data_selected_year_sorted['Population'])
+                max_value=max(data['Population'])
             )
         }
     )
