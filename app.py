@@ -25,7 +25,6 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 alt.themes.enable("dark")
-map_data = gpd.read_file("proc_data/vn_map_crs_0.geojson")
 
 data = pd.read_csv("proc_data/vn_population.csv", index_col=False)
 density_data = pd.read_csv("proc_data/vn_population_density.csv", index_col=False)

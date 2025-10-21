@@ -5,11 +5,9 @@ import os
 from sklearn.preprocessing import MinMaxScaler
 
 BASE_DIR = os.path.dirname(__file__)
-GEO_PATH = os.path.join(BASE_DIR, "vn_map_crs_0.geojson")
+GEO_PATH = os.path.join(BASE_DIR, "vn_map.geojson")
 vn_geo_json = gpd.read_file(GEO_PATH)
 location = 'Province'
-
-print(list(vn_geo_json.Province))
 
 def draw_choropleth_map(data, value, color_theme, scale_data=False, normalize=False):
     """
@@ -77,8 +75,5 @@ def draw_choropleth_map(data, value, color_theme, scale_data=False, normalize=Fa
             ticks="",      # removes tick lines
         )
     )
-
-    # choropleth.update_coloraxes(showticklabels=False)
-
 
     return choropleth
