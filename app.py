@@ -69,7 +69,7 @@ with col[1]:
     st.metric(label="Total Population", value=total_population, border=True)
 
     sex_ratio = sex_ratio_data[(sex_ratio_data['Year'] == selected_year) & (sex_ratio_data['Province'] == 'Country')]['Sex_ratio'].values[0]
-    st.metric(label='Sex ratio', value=f'{round(float(sex_ratio), 1)} 👨 / 100 👩', border=True)
+    st.metric(label='Sex ratio in population', value=f'{round(float(sex_ratio), 1)} 👨 / 100 👩', border=True)
 
     # city_population = float(city_countryside_data[(city_countryside_data['Year'] == selected_year) & (city_countryside_data['Province'] == 'Country') & (city_countryside_data['Location'] == 'City')]['Value'].values[0])
     # countryside_population = float(city_countryside_data[(city_countryside_data['Year'] == selected_year) & (city_countryside_data['Province'] == 'Country') & (city_countryside_data['Location'] == 'Countryside')]['Value'].values[0])
