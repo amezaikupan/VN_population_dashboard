@@ -56,6 +56,9 @@ def draw_choropleth_map(data, value, color_theme, scale_data=False, normalize=Fa
     choropleth.update_geos(
         projection_type="mercator",
         fitbounds="locations",
+        # If zoom in to mainland
+        # lataxis_range = [7.7, 23.5],
+        # lonaxis_range = [102.0, 111],
         visible=False
     )
     
@@ -64,6 +67,7 @@ def draw_choropleth_map(data, value, color_theme, scale_data=False, normalize=Fa
         paper_bgcolor='rgba(0,0,0,0)',
         margin=dict(l=0, r=0, t=0, b=0), 
         width=600,
+        height=560,
         autosize=False, 
         uirevision='constant', 
         coloraxis_colorbar=dict(

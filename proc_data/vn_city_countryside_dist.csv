@@ -1,0 +1,1989 @@
+,Province,Location,Year,Value
+0,Country,City,2011,27678.62
+1,Country,City,2012,28274.89
+2,Country,City,2013,28865.08
+3,Country,City,2014,30272.69
+4,Country,City,2015,30881.90
+5,Country,City,2016,31397.00
+6,Country,City,2017,31928.30
+7,Country,City,2018,32636.90
+8,Country,City,2019,33816.60
+9,Country,City,2020,35906.44
+10,Country,City,2021,36556.60
+11,Country,City,2022,37347.50
+12,Country,City,2023,38219.71
+13,Country,City,2024,39007.28
+14,Country,Countryside,2011,60467.21
+15,Country,Countryside,2012,60928.00
+16,Country,Countryside,2013,61326.34
+17,Country,Countryside,2014,60931.08
+18,Country,Countryside,2015,61346.70
+19,Country,Countryside,2016,61853.70
+20,Country,Countryside,2017,62357.70
+21,Country,Countryside,2018,62748.30
+22,Country,Countryside,2019,62667.40
+23,Country,Countryside,2020,61676.26
+24,Country,Countryside,2021,61947.80
+25,Country,Countryside,2022,62120.37
+26,Country,Countryside,2023,62089.49
+27,Country,Countryside,2024,62336.48
+28,Đồng bằng sông Hồng,City,2011,6164.16
+29,Đồng bằng sông Hồng,City,2012,6310.29
+30,Đồng bằng sông Hồng,City,2013,6467.57
+31,Đồng bằng sông Hồng,City,2014,7117.52
+32,Đồng bằng sông Hồng,City,2015,7254.20
+33,Đồng bằng sông Hồng,City,2016,7411.70
+34,Đồng bằng sông Hồng,City,2017,7569.20
+35,Đồng bằng sông Hồng,City,2018,7773.50
+36,Đồng bằng sông Hồng,City,2019,8130.30
+37,Đồng bằng sông Hồng,City,2020,8537.08
+38,Đồng bằng sông Hồng,City,2021,8722.90
+39,Đồng bằng sông Hồng,City,2022,8830.36
+40,Đồng bằng sông Hồng,City,2023,9204.31
+41,Đồng bằng sông Hồng,City,2024,9373.82
+42,Đồng bằng sông Hồng,Countryside,2011,14052.65
+43,Đồng bằng sông Hồng,Countryside,2012,14215.07
+44,Đồng bằng sông Hồng,Countryside,2013,14318.07
+45,Đồng bằng sông Hồng,Countryside,2014,13963.07
+46,Đồng bằng sông Hồng,Countryside,2015,14114.10
+47,Đồng bằng sông Hồng,Countryside,2016,14257.50
+48,Đồng bằng sông Hồng,Countryside,2017,14399.40
+49,Đồng bằng sông Hồng,Countryside,2018,14517.30
+50,Đồng bằng sông Hồng,Countryside,2019,14489.90
+51,Đồng bằng sông Hồng,Countryside,2020,14383.10
+52,Đồng bằng sông Hồng,Countryside,2021,14500.07
+53,Đồng bằng sông Hồng,Countryside,2022,14623.93
+54,Đồng bằng sông Hồng,Countryside,2023,14528.10
+55,Đồng bằng sông Hồng,Countryside,2024,14642.17
+56,Hà Nội,City,2011,2900.37
+57,Hà Nội,City,2012,2972.61
+58,Hà Nội,City,2013,3024.64
+59,Hà Nội,City,2014,3583.51
+60,Hà Nội,City,2015,3650.50
+61,Hà Nội,City,2016,3733.00
+62,Hà Nội,City,2017,3810.00
+63,Hà Nội,City,2018,3904.80
+64,Hà Nội,City,2019,4000.30
+65,Hà Nội,City,2020,4061.06
+66,Hà Nội,City,2021,4095.37
+67,Hà Nội,City,2022,4138.51
+68,Hà Nội,City,2023,4212.99
+69,Hà Nội,City,2024,4280.83
+70,Hà Nội,Countryside,2011,3925.45
+71,Hà Nội,Countryside,2012,4018.82
+72,Hà Nội,Countryside,2013,4103.75
+73,Hà Nội,Countryside,2014,3702.03
+74,Hà Nội,Countryside,2015,3783.10
+75,Hà Nội,Countryside,2016,3857.70
+76,Hà Nội,Countryside,2017,3932.20
+77,Hà Nội,Countryside,2018,4009.60
+78,Hà Nội,Countryside,2019,4093.60
+79,Hà Nội,Countryside,2020,4185.48
+80,Hà Nội,Countryside,2021,4235.47
+81,Hà Nội,Countryside,2022,4297.15
+82,Hà Nội,Countryside,2023,4374.09
+83,Hà Nội,Countryside,2024,4436.79
+84,Hà Tây,City,2011,..
+85,Hà Tây,City,2012,..
+86,Hà Tây,City,2013,..
+87,Hà Tây,City,2014,..
+88,Hà Tây,City,2015,..
+89,Hà Tây,City,2016,..
+90,Hà Tây,City,2017,..
+91,Hà Tây,City,2018,..
+92,Hà Tây,City,2019,..
+93,Hà Tây,City,2020,..
+94,Hà Tây,City,2021,..
+95,Hà Tây,City,2022,..
+96,Hà Tây,City,2023,..
+97,Hà Tây,City,2024,..
+98,Hà Tây,Countryside,2011,..
+99,Hà Tây,Countryside,2012,..
+100,Hà Tây,Countryside,2013,..
+101,Hà Tây,Countryside,2014,..
+102,Hà Tây,Countryside,2015,..
+103,Hà Tây,Countryside,2016,..
+104,Hà Tây,Countryside,2017,..
+105,Hà Tây,Countryside,2018,..
+106,Hà Tây,Countryside,2019,..
+107,Hà Tây,Countryside,2020,..
+108,Hà Tây,Countryside,2021,..
+109,Hà Tây,Countryside,2022,..
+110,Hà Tây,Countryside,2023,..
+111,Hà Tây,Countryside,2024,..
+112,Vĩnh Phúc,City,2011,236.95
+113,Vĩnh Phúc,City,2012,244.56
+114,Vĩnh Phúc,City,2013,251.44
+115,Vĩnh Phúc,City,2014,251.06
+116,Vĩnh Phúc,City,2015,254.20
+117,Vĩnh Phúc,City,2016,257.90
+118,Vĩnh Phúc,City,2017,261.70
+119,Vĩnh Phúc,City,2018,285.20
+120,Vĩnh Phúc,City,2019,295.20
+121,Vĩnh Phúc,City,2020,350.98
+122,Vĩnh Phúc,City,2021,358.33
+123,Vĩnh Phúc,City,2022,366.18
+124,Vĩnh Phúc,City,2023,411.00
+125,Vĩnh Phúc,City,2024,416.63
+126,Vĩnh Phúc,Countryside,2011,792.56
+127,Vĩnh Phúc,Countryside,2012,802.84
+128,Vĩnh Phúc,Countryside,2013,810.06
+129,Vĩnh Phúc,Countryside,2014,825.77
+130,Vĩnh Phúc,Countryside,2015,836.10
+131,Vĩnh Phúc,Countryside,2016,848.30
+132,Vĩnh Phúc,Countryside,2017,861.40
+133,Vĩnh Phúc,Countryside,2018,853.20
+134,Vĩnh Phúc,Countryside,2019,859.60
+135,Vĩnh Phúc,Countryside,2020,820.25
+136,Vĩnh Phúc,Countryside,2021,833.40
+137,Vĩnh Phúc,Countryside,2022,831.44
+138,Vĩnh Phúc,Countryside,2023,800.35
+139,Vĩnh Phúc,Countryside,2024,808.67
+140,Bắc Ninh,City,2011,279.35
+141,Bắc Ninh,City,2012,286.35
+142,Bắc Ninh,City,2013,293.70
+143,Bắc Ninh,City,2014,327.28
+144,Bắc Ninh,City,2015,336.10
+145,Bắc Ninh,City,2016,345.50
+146,Bắc Ninh,City,2017,355.30
+147,Bắc Ninh,City,2018,365.60
+148,Bắc Ninh,City,2019,380.90
+149,Bắc Ninh,City,2020,446.57
+150,Bắc Ninh,City,2021,536.15
+151,Bắc Ninh,City,2022,554.57
+152,Bắc Ninh,City,2023,770.71
+153,Bắc Ninh,City,2024,787.92
+154,Bắc Ninh,Countryside,2011,793.03
+155,Bắc Ninh,Countryside,2012,818.34
+156,Bắc Ninh,Countryside,2013,846.19
+157,Bắc Ninh,Countryside,2014,849.78
+158,Bắc Ninh,Countryside,2015,882.40
+159,Bắc Ninh,Countryside,2016,912.40
+160,Bắc Ninh,Countryside,2017,942.50
+161,Bắc Ninh,Countryside,2018,971.70
+162,Bắc Ninh,Countryside,2019,997.70
+163,Bắc Ninh,Countryside,2020,972.56
+164,Bắc Ninh,Countryside,2021,926.80
+165,Bắc Ninh,Countryside,2022,933.68
+166,Bắc Ninh,Countryside,2023,746.73
+167,Bắc Ninh,Countryside,2024,758.67
+168,Quảng Ninh,City,2011,639.93
+169,Quảng Ninh,City,2012,663.31
+170,Quảng Ninh,City,2013,684.20
+171,Quảng Ninh,City,2014,709.67
+172,Quảng Ninh,City,2015,733.50
+173,Quảng Ninh,City,2016,761.50
+174,Quảng Ninh,City,2017,792.90
+175,Quảng Ninh,City,2018,822.10
+176,Quảng Ninh,City,2019,853.70
+177,Quảng Ninh,City,2020,901.11
+178,Quảng Ninh,City,2021,909.89
+179,Quảng Ninh,City,2022,917.98
+180,Quảng Ninh,City,2023,930.42
+181,Quảng Ninh,City,2024,968.26
+182,Quảng Ninh,Countryside,2011,541.60
+183,Quảng Ninh,Countryside,2012,535.08
+184,Quảng Ninh,Countryside,2013,525.39
+185,Quảng Ninh,Countryside,2014,518.00
+186,Quảng Ninh,Countryside,2015,508.10
+187,Quảng Ninh,Countryside,2016,499.80
+188,Quảng Ninh,Countryside,2017,492.30
+189,Quảng Ninh,Countryside,2018,481.80
+190,Quảng Ninh,Countryside,2019,471.20
+191,Quảng Ninh,Countryside,2020,436.50
+192,Quảng Ninh,Countryside,2021,440.96
+193,Quảng Ninh,Countryside,2022,444.90
+194,Quảng Ninh,Countryside,2023,450.74
+195,Quảng Ninh,Countryside,2024,428.27
+196,Hải Dương,City,2011,351.49
+197,Hải Dương,City,2012,366.07
+198,Hải Dương,City,2013,379.46
+199,Hải Dương,City,2014,394.26
+200,Hải Dương,City,2015,409.80
+201,Hải Dương,City,2016,426.60
+202,Hải Dương,City,2017,443.60
+203,Hải Dương,City,2018,463.40
+204,Hải Dương,City,2019,594.20
+205,Hải Dương,City,2020,603.24
+206,Hải Dương,City,2021,613.18
+207,Hải Dương,City,2022,618.12
+208,Hải Dương,City,2023,620.02
+209,Hải Dương,City,2024,630.52
+210,Hải Dương,Countryside,2011,1396.34
+211,Hải Dương,Countryside,2012,1401.76
+212,Hải Dương,Countryside,2013,1400.22
+213,Hải Dương,Countryside,2014,1401.53
+214,Hải Dương,Countryside,2015,1403.00
+215,Hải Dương,Countryside,2016,1406.20
+216,Hải Dương,Countryside,2017,1407.00
+217,Hải Dương,Countryside,2018,1414.30
+218,Hải Dương,Countryside,2019,1302.70
+219,Hải Dương,Countryside,2020,1313.54
+220,Hải Dương,Countryside,2021,1323.60
+221,Hải Dương,Countryside,2022,1328.71
+222,Hải Dương,Countryside,2023,1336.87
+223,Hải Dương,Countryside,2024,1347.71
+224,Hải Phòng,City,2011,867.64
+225,Hải Phòng,City,2012,878.95
+226,Hải Phòng,City,2013,886.79
+227,Hải Phòng,City,2014,894.29
+228,Hải Phòng,City,2015,901.90
+229,Hải Phòng,City,2016,908.10
+230,Hải Phòng,City,2017,914.40
+231,Hải Phòng,City,2018,920.30
+232,Hải Phòng,City,2019,926.90
+233,Hải Phòng,City,2020,932.55
+234,Hải Phòng,City,2021,943.20
+235,Hải Phòng,City,2022,951.77
+236,Hải Phòng,City,2023,960.64
+237,Hải Phòng,City,2024,970.27
+238,Hải Phòng,Countryside,2011,1018.55
+239,Hải Phòng,Countryside,2012,1033.98
+240,Hải Phòng,Countryside,2013,1045.38
+241,Hải Phòng,Countryside,2014,1056.42
+242,Hải Phòng,Countryside,2015,1067.60
+243,Hải Phòng,Countryside,2016,1077.20
+244,Hải Phòng,Countryside,2017,1087.00
+245,Hải Phòng,Countryside,2018,1096.20
+246,Hải Phòng,Countryside,2019,1106.40
+247,Hải Phòng,Countryside,2020,1120.95
+248,Hải Phòng,Countryside,2021,1129.19
+249,Hải Phòng,Countryside,2022,1136.25
+250,Hải Phòng,Countryside,2023,1144.39
+251,Hải Phòng,Countryside,2024,1154.25
+252,Hưng Yên,City,2011,139.27
+253,Hưng Yên,City,2012,140.90
+254,Hưng Yên,City,2013,142.65
+255,Hưng Yên,City,2014,144.48
+256,Hưng Yên,City,2015,146.10
+257,Hưng Yên,City,2016,147.90
+258,Hưng Yên,City,2017,149.50
+259,Hưng Yên,City,2018,151.50
+260,Hưng Yên,City,2019,207.30
+261,Hưng Yên,City,2020,209.73
+262,Hưng Yên,City,2021,213.57
+263,Hưng Yên,City,2022,217.43
+264,Hưng Yên,City,2023,220.98
+265,Hưng Yên,City,2024,225.20
+266,Hưng Yên,Countryside,2011,1011.47
+267,Hưng Yên,Countryside,2012,1022.01
+268,Hưng Yên,Countryside,2013,1032.87
+269,Hưng Yên,Countryside,2014,1044.17
+270,Hưng Yên,Countryside,2015,1055.90
+271,Hưng Yên,Countryside,2016,1067.60
+272,Hưng Yên,Countryside,2017,1079.30
+273,Hưng Yên,Countryside,2018,1090.90
+274,Hưng Yên,Countryside,2019,1048.50
+275,Hưng Yên,Countryside,2020,1059.36
+276,Hưng Yên,Countryside,2021,1070.99
+277,Hưng Yên,Countryside,2022,1073.42
+278,Hưng Yên,Countryside,2023,1080.03
+279,Hưng Yên,Countryside,2024,1092.86
+280,Thái Bình,City,2011,177.79
+281,Thái Bình,City,2012,180.09
+282,Thái Bình,City,2013,182.42
+283,Thái Bình,City,2014,184.78
+284,Thái Bình,City,2015,187.20
+285,Thái Bình,City,2016,189.60
+286,Thái Bình,City,2017,192.00
+287,Thái Bình,City,2018,194.50
+288,Thái Bình,City,2019,197.00
+289,Thái Bình,City,2020,219.46
+290,Thái Bình,City,2021,220.23
+291,Thái Bình,City,2022,220.96
+292,Thái Bình,City,2023,221.74
+293,Thái Bình,City,2024,224.51
+294,Thái Bình,Countryside,2011,1620.88
+295,Thái Bình,Countryside,2012,1626.40
+296,Thái Bình,Countryside,2013,1632.62
+297,Thái Bình,Countryside,2014,1637.65
+298,Thái Bình,Countryside,2015,1643.20
+299,Thái Bình,Countryside,2016,1648.50
+300,Thái Bình,Countryside,2017,1654.10
+301,Thái Bình,Countryside,2018,1659.60
+302,Thái Bình,Countryside,2019,1665.20
+303,Thái Bình,Countryside,2020,1650.78
+304,Thái Bình,Countryside,2021,1653.66
+305,Thái Bình,Countryside,2022,1657.58
+306,Thái Bình,Countryside,2023,1660.60
+307,Thái Bình,Countryside,2024,1665.86
+308,Hà Nam,City,2011,84.30
+309,Hà Nam,City,2012,86.26
+310,Hà Nam,City,2013,127.25
+311,Hà Nam,City,2014,129.76
+312,Hà Nam,City,2015,133.00
+313,Hà Nam,City,2016,135.60
+314,Hà Nam,City,2017,138.20
+315,Hà Nam,City,2018,140.80
+316,Hà Nam,City,2019,143.30
+317,Hà Nam,City,2020,239.68
+318,Hà Nam,City,2021,244.91
+319,Hà Nam,City,2022,245.96
+320,Hà Nam,City,2023,249.82
+321,Hà Nam,City,2024,257.04
+322,Hà Nam,Countryside,2011,711.34
+323,Hà Nam,Countryside,2012,714.55
+324,Hà Nam,Countryside,2013,680.19
+325,Hà Nam,Countryside,2014,685.31
+326,Hà Nam,Countryside,2015,691.20
+327,Hà Nam,Countryside,2016,696.60
+328,Hà Nam,Countryside,2017,701.50
+329,Hà Nam,Countryside,2018,706.40
+330,Hà Nam,Countryside,2019,711.20
+331,Hà Nam,Countryside,2020,622.15
+332,Hà Nam,Countryside,2021,630.31
+333,Hà Nam,Countryside,2022,632.10
+334,Hà Nam,Countryside,2023,636.09
+335,Hà Nam,Countryside,2024,637.17
+336,Nam Định,City,2011,320.01
+337,Nam Định,City,2012,319.32
+338,Nam Định,City,2013,318.68
+339,Nam Định,City,2014,318.08
+340,Nam Định,City,2015,317.50
+341,Nam Định,City,2016,317.00
+342,Nam Định,City,2017,316.50
+343,Nam Định,City,2018,324.10
+344,Nam Định,City,2019,323.70
+345,Nam Định,City,2020,360.12
+346,Nam Định,City,2021,371.57
+347,Nam Định,City,2022,380.46
+348,Nam Định,City,2023,385.41
+349,Nam Định,City,2024,387.97
+350,Nam Định,Countryside,2011,1496.80
+351,Nam Định,Countryside,2012,1492.18
+352,Nam Định,Countryside,2013,1487.73
+353,Nam Định,Countryside,2014,1483.46
+354,Nam Định,Countryside,2015,1479.40
+355,Nam Định,Countryside,2016,1475.40
+356,Nam Định,Countryside,2017,1471.70
+357,Nam Định,Countryside,2018,1460.20
+358,Nam Định,Countryside,2019,1457.10
+359,Nam Định,Countryside,2020,1420.21
+360,Nam Định,Countryside,2021,1464.70
+361,Nam Định,Countryside,2022,1496.39
+362,Nam Định,Countryside,2023,1501.69
+363,Nam Định,Countryside,2024,1506.24
+364,Ninh Bình,City,2011,167.06
+365,Ninh Bình,City,2012,171.87
+366,Ninh Bình,City,2013,176.35
+367,Ninh Bình,City,2014,180.35
+368,Ninh Bình,City,2015,184.40
+369,Ninh Bình,City,2016,189.00
+370,Ninh Bình,City,2017,195.10
+371,Ninh Bình,City,2018,201.20
+372,Ninh Bình,City,2019,207.80
+373,Ninh Bình,City,2020,212.59
+374,Ninh Bình,City,2021,216.52
+375,Ninh Bình,City,2022,218.43
+376,Ninh Bình,City,2023,220.58
+377,Ninh Bình,City,2024,224.66
+378,Ninh Bình,Countryside,2011,744.63
+379,Ninh Bình,Countryside,2012,749.11
+380,Ninh Bình,Countryside,2013,753.68
+381,Ninh Bình,Countryside,2014,758.96
+382,Ninh Bình,Countryside,2015,764.10
+383,Ninh Bình,Countryside,2016,767.80
+384,Ninh Bình,Countryside,2017,770.40
+385,Ninh Bình,Countryside,2018,773.40
+386,Ninh Bình,Countryside,2019,776.70
+387,Ninh Bình,Countryside,2020,781.33
+388,Ninh Bình,Countryside,2021,791.00
+389,Ninh Bình,Countryside,2022,792.32
+390,Ninh Bình,Countryside,2023,796.53
+391,Ninh Bình,Countryside,2024,805.68
+392,Trung du và miền núi phía Bắc,City,2011,1917.65
+393,Trung du và miền núi phía Bắc,City,2012,1952.53
+394,Trung du và miền núi phía Bắc,City,2013,2000.02
+395,Trung du và miền núi phía Bắc,City,2014,2053.99
+396,Trung du và miền núi phía Bắc,City,2015,2122.30
+397,Trung du và miền núi phía Bắc,City,2016,2155.20
+398,Trung du và miền núi phía Bắc,City,2017,2193.30
+399,Trung du và miền núi phía Bắc,City,2018,2233.60
+400,Trung du và miền núi phía Bắc,City,2019,2284.30
+401,Trung du và miền núi phía Bắc,City,2020,2597.83
+402,Trung du và miền núi phía Bắc,City,2021,2646.91
+403,Trung du và miền núi phía Bắc,City,2022,2819.74
+404,Trung du và miền núi phía Bắc,City,2023,2885.26
+405,Trung du và miền núi phía Bắc,City,2024,3065.60
+406,Trung du và miền núi phía Bắc,Countryside,2011,9393.76
+407,Trung du và miền núi phía Bắc,Countryside,2012,9489.31
+408,Trung du và miền núi phía Bắc,Countryside,2013,9574.47
+409,Trung du và miền núi phía Bắc,Countryside,2014,9685.22
+410,Trung du và miền núi phía Bắc,Countryside,2015,9784.70
+411,Trung du và miền núi phía Bắc,Countryside,2016,9905.90
+412,Trung du và miền núi phía Bắc,Countryside,2017,10037.40
+413,Trung du và miền núi phía Bắc,Countryside,2018,10171.30
+414,Trung du và miền núi phía Bắc,Countryside,2019,10285.00
+415,Trung du và miền núi phía Bắc,Countryside,2020,10127.95
+416,Trung du và miền núi phía Bắc,Countryside,2021,10278.16
+417,Trung du và miền núi phía Bắc,Countryside,2022,10203.45
+418,Trung du và miền núi phía Bắc,Countryside,2023,10277.19
+419,Trung du và miền núi phía Bắc,Countryside,2024,10273.35
+420,Hà Giang,City,2011,112.66
+421,Hà Giang,City,2012,114.94
+422,Hà Giang,City,2013,116.88
+423,Hà Giang,City,2014,118.77
+424,Hà Giang,City,2015,120.90
+425,Hà Giang,City,2016,123.00
+426,Hà Giang,City,2017,125.20
+427,Hà Giang,City,2018,127.60
+428,Hà Giang,City,2019,137.20
+429,Hà Giang,City,2020,137.89
+430,Hà Giang,City,2021,140.33
+431,Hà Giang,City,2022,142.35
+432,Hà Giang,City,2023,145.08
+433,Hà Giang,City,2024,148.64
+434,Hà Giang,Countryside,2011,636.88
+435,Hà Giang,Countryside,2012,648.57
+436,Hà Giang,Countryside,2013,662.08
+437,Hà Giang,Countryside,2014,673.70
+438,Hà Giang,Countryside,2015,685.80
+439,Hà Giang,Countryside,2016,697.40
+440,Hà Giang,Countryside,2017,708.50
+441,Hà Giang,Countryside,2018,718.90
+442,Hà Giang,Countryside,2019,720.90
+443,Hà Giang,Countryside,2020,732.35
+444,Hà Giang,Countryside,2021,746.76
+445,Hà Giang,Countryside,2022,750.38
+446,Hà Giang,Countryside,2023,754.82
+447,Hà Giang,Countryside,2024,762.71
+448,Cao Bằng,City,2011,99.46
+449,Cao Bằng,City,2012,104.22
+450,Cao Bằng,City,2013,105.29
+451,Cao Bằng,City,2014,106.34
+452,Cao Bằng,City,2015,108.60
+453,Cao Bằng,City,2016,111.50
+454,Cao Bằng,City,2017,115.50
+455,Cao Bằng,City,2018,119.90
+456,Cao Bằng,City,2019,124.50
+457,Cao Bằng,City,2020,136.01
+458,Cao Bằng,City,2021,138.18
+459,Cao Bằng,City,2022,138.47
+460,Cao Bằng,City,2023,139.53
+461,Cao Bằng,City,2024,142.20
+462,Cao Bằng,Countryside,2011,414.56
+463,Cao Bằng,Countryside,2012,411.66
+464,Cao Bằng,Countryside,2013,412.56
+465,Cao Bằng,Countryside,2014,413.53
+466,Cao Bằng,Countryside,2015,413.30
+467,Cao Bằng,Countryside,2016,412.80
+468,Cao Bằng,Countryside,2017,410.90
+469,Cao Bằng,Countryside,2018,408.80
+470,Cao Bằng,Countryside,2019,406.30
+471,Cao Bằng,Countryside,2020,397.07
+472,Cao Bằng,Countryside,2021,404.04
+473,Cao Bằng,Countryside,2022,404.59
+474,Cao Bằng,Countryside,2023,408.32
+475,Cao Bằng,Countryside,2024,416.26
+476,Bắc Kạn,City,2011,50.55
+477,Bắc Kạn,City,2012,52.26
+478,Bắc Kạn,City,2013,53.82
+479,Bắc Kạn,City,2014,55.48
+480,Bắc Kạn,City,2015,57.50
+481,Bắc Kạn,City,2016,59.40
+482,Bắc Kạn,City,2017,61.40
+483,Bắc Kạn,City,2018,63.50
+484,Bắc Kạn,City,2019,65.60
+485,Bắc Kạn,City,2020,71.48
+486,Bắc Kạn,City,2021,73.11
+487,Bắc Kạn,City,2022,73.57
+488,Bắc Kạn,City,2023,78.64
+489,Bắc Kạn,City,2024,80.85
+490,Bắc Kạn,Countryside,2011,248.14
+491,Bắc Kạn,Countryside,2012,248.54
+492,Bắc Kạn,Countryside,2013,247.91
+493,Bắc Kạn,Countryside,2014,247.47
+494,Bắc Kạn,Countryside,2015,248.20
+495,Bắc Kạn,Countryside,2016,248.30
+496,Bắc Kạn,Countryside,2017,248.50
+497,Bắc Kạn,Countryside,2018,248.60
+498,Bắc Kạn,Countryside,2019,248.70
+499,Bắc Kạn,Countryside,2020,244.99
+500,Bắc Kạn,Countryside,2021,250.60
+501,Bắc Kạn,Countryside,2022,250.79
+502,Bắc Kạn,Countryside,2023,247.86
+503,Bắc Kạn,Countryside,2024,248.46
+504,Tuyên Quang,City,2011,96.54
+505,Tuyên Quang,City,2012,97.78
+506,Tuyên Quang,City,2013,99.03
+507,Tuyên Quang,City,2014,100.47
+508,Tuyên Quang,City,2015,102.00
+509,Tuyên Quang,City,2016,103.60
+510,Tuyên Quang,City,2017,105.20
+511,Tuyên Quang,City,2018,106.90
+512,Tuyên Quang,City,2019,108.60
+513,Tuyên Quang,City,2020,109.56
+514,Tuyên Quang,City,2021,111.30
+515,Tuyên Quang,City,2022,120.54
+516,Tuyên Quang,City,2023,122.80
+517,Tuyên Quang,City,2024,159.17
+518,Tuyên Quang,Countryside,2011,637.06
+519,Tuyên Quang,Countryside,2012,640.75
+520,Tuyên Quang,Countryside,2013,644.34
+521,Tuyên Quang,Countryside,2014,649.12
+522,Tuyên Quang,Countryside,2015,654.20
+523,Tuyên Quang,Countryside,2016,659.80
+524,Tuyên Quang,Countryside,2017,665.30
+525,Tuyên Quang,Countryside,2018,671.50
+526,Tuyên Quang,Countryside,2019,677.60
+527,Tuyên Quang,Countryside,2020,683.33
+528,Tuyên Quang,Countryside,2021,690.37
+529,Tuyên Quang,Countryside,2022,685.24
+530,Tuyên Quang,Countryside,2023,689.42
+531,Tuyên Quang,Countryside,2024,661.14
+532,Lào Cai,City,2011,143.58
+533,Lào Cai,City,2012,146.72
+534,Lào Cai,City,2013,150.64
+535,Lào Cai,City,2014,153.90
+536,Lào Cai,City,2015,157.20
+537,Lào Cai,City,2016,159.80
+538,Lào Cai,City,2017,162.00
+539,Lào Cai,City,2018,167.00
+540,Lào Cai,City,2019,171.50
+541,Lào Cai,City,2020,197.21
+542,Lào Cai,City,2021,201.90
+543,Lào Cai,City,2022,206.50
+544,Lào Cai,City,2023,210.97
+545,Lào Cai,City,2024,215.02
+546,Lào Cai,Countryside,2011,494.56
+547,Lào Cai,Countryside,2012,502.78
+548,Lào Cai,Countryside,2013,510.36
+549,Lào Cai,Countryside,2014,518.74
+550,Lào Cai,Countryside,2015,527.20
+551,Lào Cai,Countryside,2016,536.60
+552,Lào Cai,Countryside,2017,546.60
+553,Lào Cai,Countryside,2018,553.80
+554,Lào Cai,Countryside,2019,561.80
+555,Lào Cai,Countryside,2020,549.15
+556,Lào Cai,Countryside,2021,559.99
+557,Lào Cai,Countryside,2022,564.09
+558,Lào Cai,Countryside,2023,568.95
+559,Lào Cai,Countryside,2024,577.19
+560,Yên Bái,City,2011,144.38
+561,Yên Bái,City,2012,146.05
+562,Yên Bái,City,2013,147.77
+563,Yên Bái,City,2014,156.04
+564,Yên Bái,City,2015,158.00
+565,Yên Bái,City,2016,159.20
+566,Yên Bái,City,2017,160.50
+567,Yên Bái,City,2018,161.90
+568,Yên Bái,City,2019,163.30
+569,Yên Bái,City,2020,171.59
+570,Yên Bái,City,2021,174.73
+571,Yên Bái,City,2022,176.65
+572,Yên Bái,City,2023,179.20
+573,Yên Bái,City,2024,181.26
+574,Yên Bái,Countryside,2011,614.26
+575,Yên Bái,Countryside,2012,619.64
+576,Yên Bái,Countryside,2013,626.82
+577,Yên Bái,Countryside,2014,627.50
+578,Yên Bái,Countryside,2015,635.10
+579,Yên Bái,Countryside,2016,641.10
+580,Yên Bái,Countryside,2017,646.80
+581,Yên Bái,Countryside,2018,652.70
+582,Yên Bái,Countryside,2019,659.80
+583,Yên Bái,Countryside,2020,660.00
+584,Yên Bái,Countryside,2021,667.94
+585,Yên Bái,Countryside,2022,670.60
+586,Yên Bái,Countryside,2023,676.33
+587,Yên Bái,Countryside,2024,683.12
+588,Thái Nguyên,City,2011,322.21
+589,Thái Nguyên,City,2012,326.90
+590,Thái Nguyên,City,2013,344.21
+591,Thái Nguyên,City,2014,347.72
+592,Thái Nguyên,City,2015,387.80
+593,Thái Nguyên,City,2016,392.50
+594,Thái Nguyên,City,2017,399.40
+595,Thái Nguyên,City,2018,405.20
+596,Thái Nguyên,City,2019,413.90
+597,Thái Nguyên,City,2020,419.68
+598,Thái Nguyên,City,2021,425.30
+599,Thái Nguyên,City,2022,525.56
+600,Thái Nguyên,City,2023,548.86
+601,Thái Nguyên,City,2024,556.07
+602,Thái Nguyên,Countryside,2011,817.24
+603,Thái Nguyên,Countryside,2012,822.19
+604,Thái Nguyên,Countryside,2013,811.78
+605,Thái Nguyên,Countryside,2014,850.45
+606,Thái Nguyên,Countryside,2015,843.00
+607,Thái Nguyên,Countryside,2016,850.30
+608,Thái Nguyên,Countryside,2017,856.70
+609,Thái Nguyên,Countryside,2018,868.30
+610,Thái Nguyên,Countryside,2019,877.10
+611,Thái Nguyên,Countryside,2020,888.19
+612,Thái Nguyên,Countryside,2021,897.80
+613,Thái Nguyên,Countryside,2022,810.43
+614,Thái Nguyên,Countryside,2023,801.49
+615,Thái Nguyên,Countryside,2024,809.13
+616,Lạng Sơn,City,2011,143.97
+617,Lạng Sơn,City,2012,145.74
+618,Lạng Sơn,City,2013,147.45
+619,Lạng Sơn,City,2014,149.15
+620,Lạng Sơn,City,2015,151.20
+621,Lạng Sơn,City,2016,153.30
+622,Lạng Sơn,City,2017,155.40
+623,Lạng Sơn,City,2018,157.80
+624,Lạng Sơn,City,2019,160.30
+625,Lạng Sơn,City,2020,181.72
+626,Lạng Sơn,City,2021,183.89
+627,Lạng Sơn,City,2022,185.87
+628,Lạng Sơn,City,2023,187.12
+629,Lạng Sơn,City,2024,192.32
+630,Lạng Sơn,Countryside,2011,596.94
+631,Lạng Sơn,Countryside,2012,599.39
+632,Lạng Sơn,Countryside,2013,601.49
+633,Lạng Sơn,Countryside,2014,603.45
+634,Lạng Sơn,Countryside,2015,606.60
+635,Lạng Sơn,Countryside,2016,610.10
+636,Lạng Sơn,Countryside,2017,613.30
+637,Lạng Sơn,Countryside,2018,618.00
+638,Lạng Sơn,Countryside,2019,622.50
+639,Lạng Sơn,Countryside,2020,606.99
+640,Lạng Sơn,Countryside,2021,613.00
+641,Lạng Sơn,Countryside,2022,616.22
+642,Lạng Sơn,Countryside,2023,620.19
+643,Lạng Sơn,Countryside,2024,621.67
+644,Bắc Giang,City,2011,154.81
+645,Bắc Giang,City,2012,160.10
+646,Bắc Giang,City,2013,165.66
+647,Bắc Giang,City,2014,186.08
+648,Bắc Giang,City,2015,189.10
+649,Bắc Giang,City,2016,193.10
+650,Bắc Giang,City,2017,198.20
+651,Bắc Giang,City,2018,202.90
+652,Bắc Giang,City,2019,207.40
+653,Bắc Giang,City,2020,333.98
+654,Bắc Giang,City,2021,341.66
+655,Bắc Giang,City,2022,370.34
+656,Bắc Giang,City,2023,379.36
+657,Bắc Giang,City,2024,475.54
+658,Bắc Giang,Countryside,2011,1431.22
+659,Bắc Giang,Countryside,2012,1447.67
+660,Bắc Giang,Countryside,2013,1464.99
+661,Bắc Giang,Countryside,2014,1460.78
+662,Bắc Giang,Countryside,2015,1477.90
+663,Bắc Giang,Countryside,2016,1503.80
+664,Bắc Giang,Countryside,2017,1538.60
+665,Bắc Giang,Countryside,2018,1574.60
+666,Bắc Giang,Countryside,2019,1603.10
+667,Bắc Giang,Countryside,2020,1507.65
+668,Bắc Giang,Countryside,2021,1533.58
+669,Bắc Giang,Countryside,2022,1520.59
+670,Bắc Giang,Countryside,2023,1543.38
+671,Bắc Giang,Countryside,2024,1487.06
+672,Phú Thọ,City,2011,240.86
+673,Phú Thọ,City,2012,242.83
+674,Phú Thọ,City,2013,248.04
+675,Phú Thọ,City,2014,252.57
+676,Phú Thọ,City,2015,255.70
+677,Phú Thọ,City,2016,258.50
+678,Phú Thọ,City,2017,262.00
+679,Phú Thọ,City,2018,265.40
+680,Phú Thọ,City,2019,269.40
+681,Phú Thọ,City,2020,281.83
+682,Phú Thọ,City,2021,287.90
+683,Phú Thọ,City,2022,293.52
+684,Phú Thọ,City,2023,297.27
+685,Phú Thọ,City,2024,301.31
+686,Phú Thọ,Countryside,2011,1088.49
+687,Phú Thọ,Countryside,2012,1097.98
+688,Phú Thọ,Countryside,2013,1107.20
+689,Phú Thọ,Countryside,2014,1121.11
+690,Phú Thọ,Countryside,2015,1136.60
+691,Phú Thọ,Countryside,2016,1150.50
+692,Phú Thọ,Countryside,2017,1168.40
+693,Phú Thọ,Countryside,2018,1184.20
+694,Phú Thọ,Countryside,2019,1197.00
+695,Phú Thọ,Countryside,2020,1200.06
+696,Phú Thọ,Countryside,2021,1219.58
+697,Phú Thọ,Countryside,2022,1223.40
+698,Phú Thọ,Countryside,2023,1233.58
+699,Phú Thọ,Countryside,2024,1242.57
+700,Điện Biên,City,2011,75.88
+701,Điện Biên,City,2012,77.09
+702,Điện Biên,City,2013,78.35
+703,Điện Biên,City,2014,79.64
+704,Điện Biên,City,2015,81.00
+705,Điện Biên,City,2016,82.30
+706,Điện Biên,City,2017,83.70
+707,Điện Biên,City,2018,85.10
+708,Điện Biên,City,2019,86.60
+709,Điện Biên,City,2020,93.17
+710,Điện Biên,City,2021,95.00
+711,Điện Biên,City,2022,96.67
+712,Điện Biên,City,2023,98.25
+713,Điện Biên,City,2024,99.84
+714,Điện Biên,Countryside,2011,436.92
+715,Điện Biên,Countryside,2012,446.79
+716,Điện Biên,Countryside,2013,456.61
+717,Điện Biên,Countryside,2014,466.42
+718,Điện Biên,Countryside,2015,476.20
+719,Điện Biên,Countryside,2016,486.00
+720,Điện Biên,Countryside,2017,495.70
+721,Điện Biên,Countryside,2018,505.40
+722,Điện Biên,Countryside,2019,515.10
+723,Điện Biên,Countryside,2020,520.31
+724,Điện Biên,Countryside,2021,530.09
+725,Điện Biên,Countryside,2022,539.25
+726,Điện Biên,Countryside,2023,547.94
+727,Điện Biên,Countryside,2024,556.87
+728,Lai Châu,City,2011,57.60
+729,Lai Châu,City,2012,59.08
+730,Lai Châu,City,2013,60.78
+731,Lai Châu,City,2014,61.79
+732,Lai Châu,City,2015,62.70
+733,Lai Châu,City,2016,64.00
+734,Lai Châu,City,2017,65.20
+735,Lai Châu,City,2018,66.50
+736,Lai Châu,City,2019,67.80
+737,Lai Châu,City,2020,82.22
+738,Lai Châu,City,2021,84.66
+739,Lai Châu,City,2022,85.29
+740,Lai Châu,City,2023,86.47
+741,Lai Châu,City,2024,87.57
+742,Lai Châu,Countryside,2011,335.28
+743,Lai Châu,Countryside,2012,343.88
+744,Lai Châu,Countryside,2013,353.78
+745,Lai Châu,Countryside,2014,359.67
+746,Lai Châu,Countryside,2015,365.20
+747,Lai Châu,Countryside,2016,372.40
+748,Lai Châu,Countryside,2017,379.30
+749,Lai Châu,Countryside,2018,386.90
+750,Lai Châu,Countryside,2019,394.80
+751,Lai Châu,Countryside,2020,387.59
+752,Lai Châu,Countryside,2021,393.77
+753,Lai Châu,Countryside,2022,396.81
+754,Lai Châu,Countryside,2023,402.81
+755,Lai Châu,Countryside,2024,407.91
+756,Sơn La,City,2011,153.79
+757,Sơn La,City,2012,155.90
+758,Sơn La,City,2013,157.92
+759,Sơn La,City,2014,160.19
+760,Sơn La,City,2015,162.70
+761,Sơn La,City,2016,165.20
+762,Sơn La,City,2017,167.90
+763,Sơn La,City,2018,170.70
+764,Sơn La,City,2019,173.50
+765,Sơn La,City,2020,176.10
+766,Sơn La,City,2021,180.07
+767,Sơn La,City,2022,181.80
+768,Sơn La,City,2023,185.63
+769,Sơn La,City,2024,191.71
+770,Sơn La,Countryside,2011,961.41
+771,Sơn La,Countryside,2012,973.98
+772,Sơn La,Countryside,2013,986.00
+773,Sơn La,Countryside,2014,999.56
+774,Sơn La,Countryside,2015,1014.70
+775,Sơn La,Countryside,2016,1029.70
+776,Sơn La,Countryside,2017,1045.60
+777,Sơn La,Countryside,2018,1062.40
+778,Sơn La,Countryside,2019,1079.20
+779,Sơn La,Countryside,2020,1094.46
+780,Sơn La,Countryside,2021,1107.65
+781,Sơn La,Countryside,2022,1118.32
+782,Sơn La,Countryside,2023,1127.70
+783,Sơn La,Countryside,2024,1138.87
+784,Ho� B�nh,City,2011,121.37
+785,Ho� B�nh,City,2012,122.93
+786,Ho� B�nh,City,2013,124.20
+787,Ho� B�nh,City,2014,125.88
+788,Ho� B�nh,City,2015,127.90
+789,Ho� B�nh,City,2016,129.80
+790,Ho� B�nh,City,2017,131.70
+791,Ho� B�nh,City,2018,133.20
+792,Ho� B�nh,City,2019,134.70
+793,Ho� B�nh,City,2020,205.41
+794,Ho� B�nh,City,2021,208.79
+795,Ho� B�nh,City,2022,222.63
+796,Ho� B�nh,City,2023,226.06
+797,Ho� B�nh,City,2024,234.10
+798,Ho� B�nh,Countryside,2011,680.81
+799,Ho� B�nh,Countryside,2012,685.50
+800,Ho� B�nh,Countryside,2013,688.55
+801,Ho� B�nh,Countryside,2014,693.74
+802,Ho� B�nh,Countryside,2015,700.70
+803,Ho� B�nh,Countryside,2016,707.10
+804,Ho� B�nh,Countryside,2017,713.20
+805,Ho� B�nh,Countryside,2018,717.20
+806,Ho� B�nh,Countryside,2019,721.10
+807,Ho� B�nh,Countryside,2020,655.81
+808,Ho� B�nh,Countryside,2021,662.94
+809,Ho� B�nh,Countryside,2022,652.75
+810,Ho� B�nh,Countryside,2023,654.42
+811,Ho� B�nh,Countryside,2024,660.40
+812,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2011,4857.04
+813,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2012,4994.12
+814,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2013,5106.11
+815,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2014,5258.40
+816,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2015,5404.70
+817,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2016,5487.60
+818,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2017,5567.80
+819,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2018,5642.60
+820,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2019,5745.00
+821,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2020,6409.13
+822,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2021,6681.29
+823,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2022,6770.88
+824,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2023,6894.62
+825,B?c Trung B? v� Duy�n h?i mi?n Trung,City,2024,7005.15
+826,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2011,14259.25
+827,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2012,14259.73
+828,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2013,14285.85
+829,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2014,14253.06
+830,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2015,14249.00
+831,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2016,14314.90
+832,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2017,14381.20
+833,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2018,14442.40
+834,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2019,14475.40
+835,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2020,13934.04
+836,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2021,13903.61
+837,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2022,13884.33
+838,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2023,13874.03
+839,B?c Trung B? v� Duy�n h?i mi?n Trung,Countryside,2024,13955.39
+840,Thanh Ho�,City,2011,383.28
+841,Thanh Ho�,City,2012,400.07
+842,Thanh Ho�,City,2013,419.20
+843,Thanh Ho�,City,2014,437.33
+844,Thanh Ho�,City,2015,457.10
+845,Thanh Ho�,City,2016,478.60
+846,Thanh Ho�,City,2017,500.80
+847,Thanh Ho�,City,2018,523.80
+848,Thanh Ho�,City,2019,547.20
+849,Thanh Ho�,City,2020,853.28
+850,Thanh Ho�,City,2021,993.39
+851,Thanh Ho�,City,2022,1029.90
+852,Thanh Ho�,City,2023,1036.13
+853,Thanh Ho�,City,2024,1058.18
+854,Thanh Ho�,Countryside,2011,3044.31
+855,Thanh Ho�,Countryside,2012,3049.37
+856,Thanh Ho�,Countryside,2013,3065.58
+857,Thanh Ho�,Countryside,2014,3069.76
+858,Thanh Ho�,Countryside,2015,3079.90
+859,Thanh Ho�,Countryside,2016,3092.30
+860,Thanh Ho�,Countryside,2017,3102.90
+861,Thanh Ho�,Countryside,2018,3107.50
+862,Thanh Ho�,Countryside,2019,3098.60
+863,Thanh Ho�,Countryside,2020,2811.66
+864,Thanh Ho�,Countryside,2021,2723.04
+865,Thanh Ho�,Countryside,2022,2692.16
+866,Thanh Ho�,Countryside,2023,2703.35
+867,Thanh Ho�,Countryside,2024,2706.07
+868,Nghệ An,City,2011,398.78
+869,Nghệ An,City,2012,408.16
+870,Nghệ An,City,2013,455.11
+871,Nghệ An,City,2014,460.40
+872,Nghệ An,City,2015,465.10
+873,Nghệ An,City,2016,471.80
+874,Nghệ An,City,2017,478.40
+875,Nghệ An,City,2018,483.90
+876,Nghệ An,City,2019,490.50
+877,Nghệ An,City,2020,521.61
+878,Nghệ An,City,2021,529.48
+879,Nghệ An,City,2022,530.45
+880,Nghệ An,City,2023,540.04
+881,Nghệ An,City,2024,546.00
+882,Nghệ An,Countryside,2011,2597.36
+883,Nghệ An,Countryside,2012,2627.83
+884,Nghệ An,Countryside,2013,2621.26
+885,Nghệ An,Countryside,2014,2655.94
+886,Nghệ An,Countryside,2015,2695.50
+887,Nghệ An,Countryside,2016,2731.30
+888,Nghệ An,Countryside,2017,2768.30
+889,Nghệ An,Countryside,2018,2807.50
+890,Nghệ An,Countryside,2019,2846.70
+891,Nghệ An,Countryside,2020,2843.59
+892,Nghệ An,Countryside,2021,2880.33
+893,Nghệ An,Countryside,2022,2889.54
+894,Nghệ An,Countryside,2023,2901.93
+895,Nghệ An,Countryside,2024,2926.29
+896,Hà Tĩnh,City,2011,195.25
+897,Hà Tĩnh,City,2012,201.57
+898,Hà Tĩnh,City,2013,208.11
+899,Hà Tĩnh,City,2014,215.23
+900,Hà Tĩnh,City,2015,222.30
+901,Hà Tĩnh,City,2016,229.50
+902,Hà Tĩnh,City,2017,237.30
+903,Hà Tĩnh,City,2018,245.10
+904,Hà Tĩnh,City,2019,253.90
+905,Hà Tĩnh,City,2020,287.77
+906,Hà Tĩnh,City,2021,293.01
+907,Hà Tĩnh,City,2022,293.70
+908,Hà Tĩnh,City,2023,298.05
+909,Hà Tĩnh,City,2024,300.38
+910,Hà Tĩnh,Countryside,2011,1041.46
+911,Hà Tĩnh,Countryside,2012,1040.52
+912,Hà Tĩnh,Countryside,2013,1039.45
+913,Hà Tĩnh,Countryside,2014,1040.02
+914,Hà Tĩnh,Countryside,2015,1039.00
+915,Hà Tĩnh,Countryside,2016,1037.20
+916,Hà Tĩnh,Countryside,2017,1037.00
+917,Hà Tĩnh,Countryside,2018,1035.40
+918,Hà Tĩnh,Countryside,2019,1036.40
+919,Hà Tĩnh,Countryside,2020,1008.86
+920,Hà Tĩnh,Countryside,2021,1021.10
+921,Hà Tĩnh,Countryside,2022,1023.60
+922,Hà Tĩnh,Countryside,2023,1025.70
+923,Hà Tĩnh,Countryside,2024,1029.45
+924,Quảng Bình,City,2011,131.43
+925,Quảng Bình,City,2012,133.22
+926,Quảng Bình,City,2013,135.08
+927,Quảng Bình,City,2014,173.92
+928,Quảng Bình,City,2015,176.60
+929,Quảng Bình,City,2016,179.60
+930,Quảng Bình,City,2017,182.30
+931,Quảng Bình,City,2018,185.20
+932,Quảng Bình,City,2019,188.20
+933,Quảng Bình,City,2020,207.11
+934,Quảng Bình,City,2021,210.07
+935,Quảng Bình,City,2022,211.70
+936,Quảng Bình,City,2023,214.87
+937,Quảng Bình,City,2024,217.25
+938,Quảng Bình,Countryside,2011,723.15
+939,Quảng Bình,Countryside,2012,726.57
+940,Quảng Bình,Countryside,2013,729.94
+941,Quảng Bình,Countryside,2014,696.57
+942,Quảng Bình,Countryside,2015,699.00
+943,Quảng Bình,Countryside,2016,701.00
+944,Quảng Bình,Countryside,2017,703.40
+945,Quảng Bình,Countryside,2018,706.00
+946,Quảng Bình,Countryside,2019,708.40
+947,Quảng Bình,Countryside,2020,694.87
+948,Quảng Bình,Countryside,2021,700.59
+949,Quảng Bình,Countryside,2022,702.16
+950,Quảng Bình,Countryside,2023,703.79
+951,Quảng Bình,Countryside,2024,707.50
+952,Quảng Trị,City,2011,172.81
+953,Quảng Trị,City,2012,175.45
+954,Quảng Trị,City,2013,178.19
+955,Quảng Trị,City,2014,181.01
+956,Quảng Trị,City,2015,183.90
+957,Quảng Trị,City,2016,186.90
+958,Quảng Trị,City,2017,190.00
+959,Quảng Trị,City,2018,193.20
+960,Quảng Trị,City,2019,196.40
+961,Quảng Trị,City,2020,206.86
+962,Quảng Trị,City,2021,210.96
+963,Quảng Trị,City,2022,212.59
+964,Quảng Trị,City,2023,214.25
+965,Quảng Trị,City,2024,216.04
+966,Quảng Trị,Countryside,2011,431.91
+967,Quảng Trị,Countryside,2012,432.32
+968,Quảng Trị,Countryside,2013,432.81
+969,Quảng Trị,Countryside,2014,433.36
+970,Quảng Trị,Countryside,2015,434.00
+971,Quảng Trị,Countryside,2016,434.70
+972,Quảng Trị,Countryside,2017,435.40
+973,Quảng Trị,Countryside,2018,436.50
+974,Quảng Trị,Countryside,2019,437.10
+975,Quảng Trị,Countryside,2020,430.52
+976,Quảng Trị,Countryside,2021,436.83
+977,Quảng Trị,Countryside,2022,438.36
+978,Quảng Trị,Countryside,2023,439.95
+979,Quảng Trị,Countryside,2024,443.17
+980,Thừa Thiên - Huế,City,2011,522.21
+981,Thừa Thiên - Huế,City,2012,534.09
+982,Thừa Thiên - Huế,City,2013,536.70
+983,Thừa Thiên - Huế,City,2014,540.01
+984,Thừa Thiên - Huế,City,2015,542.00
+985,Thừa Thiên - Huế,City,2016,543.90
+986,Thừa Thiên - Huế,City,2017,548.30
+987,Thừa Thiên - Huế,City,2018,548.10
+988,Thừa Thiên - Huế,City,2019,563.40
+989,Thừa Thiên - Huế,City,2020,562.32
+990,Thừa Thiên - Huế,City,2021,609.38
+991,Thừa Thiên - Huế,City,2022,612.83
+992,Thừa Thiên - Huế,City,2023,616.23
+993,Thừa Thiên - Huế,City,2024,622.59
+994,Thừa Thiên - Huế,Countryside,2011,578.57
+995,Thừa Thiên - Huế,Countryside,2012,571.69
+996,Thừa Thiên - Huế,Countryside,2013,573.10
+997,Thừa Thiên - Huế,Countryside,2014,571.58
+998,Thừa Thiên - Huế,Countryside,2015,572.70
+999,Thừa Thiên - Huế,Countryside,2016,574.10
+1000,Thừa Thiên - Huế,Countryside,2017,575.00
+1001,Thừa Thiên - Huế,Countryside,2018,577.40
+1002,Thừa Thiên - Huế,Countryside,2019,566.10
+1003,Thừa Thiên - Huế,Countryside,2020,571.27
+1004,Thừa Thiên - Huế,Countryside,2021,544.42
+1005,Thừa Thiên - Huế,Countryside,2022,547.40
+1006,Thừa Thiên - Huế,Countryside,2023,550.31
+1007,Thừa Thiên - Huế,Countryside,2024,555.96
+1008,Đà Nẵng,City,2011,841.94
+1009,Đà Nẵng,City,2012,866.26
+1010,Đà Nẵng,City,2013,884.86
+1011,Đà Nẵng,City,2014,899.61
+1012,Đà Nẵng,City,2015,919.40
+1013,Đà Nẵng,City,2016,940.60
+1014,Đà Nẵng,City,2017,956.10
+1015,Đà Nẵng,City,2018,970.90
+1016,Đà Nẵng,City,2019,994.60
+1017,Đà Nẵng,City,2020,1020.44
+1018,Đà Nẵng,City,2021,1044.33
+1019,Đà Nẵng,City,2022,1067.07
+1020,Đà Nẵng,City,2023,1091.34
+1021,Đà Nẵng,City,2024,1120.46
+1022,Đà Nẵng,Countryside,2011,126.71
+1023,Đà Nẵng,Countryside,2012,130.03
+1024,Đà Nẵng,Countryside,2013,132.47
+1025,Đà Nẵng,Countryside,2014,134.33
+1026,Đà Nẵng,Countryside,2015,136.90
+1027,Đà Nẵng,Countryside,2016,139.70
+1028,Đà Nẵng,Countryside,2017,141.60
+1029,Đà Nẵng,Countryside,2018,143.40
+1030,Đà Nẵng,Countryside,2019,146.50
+1031,Đà Nẵng,Countryside,2020,149.04
+1032,Đà Nẵng,Countryside,2021,151.16
+1033,Đà Nẵng,Countryside,2022,153.12
+1034,Đà Nẵng,Countryside,2023,153.88
+1035,Đà Nẵng,Countryside,2024,155.54
+1036,Quảng Nam,City,2011,273.21
+1037,Quảng Nam,City,2012,276.54
+1038,Quảng Nam,City,2013,279.85
+1039,Quảng Nam,City,2014,283.46
+1040,Quảng Nam,City,2015,359.90
+1041,Quảng Nam,City,2016,363.90
+1042,Quảng Nam,City,2017,368.40
+1043,Quảng Nam,City,2018,373.10
+1044,Quảng Nam,City,2019,379.60
+1045,Quảng Nam,City,2020,396.20
+1046,Quảng Nam,City,2021,401.26
+1047,Quảng Nam,City,2022,407.39
+1048,Quảng Nam,City,2023,469.14
+1049,Quảng Nam,City,2024,474.84
+1050,Quảng Nam,Countryside,2011,1163.62
+1051,Quảng Nam,Countryside,2012,1167.44
+1052,Quảng Nam,Countryside,2013,1171.52
+1053,Quảng Nam,Countryside,2014,1176.33
+1054,Quảng Nam,Countryside,2015,1108.30
+1055,Quảng Nam,Countryside,2016,1111.80
+1056,Quảng Nam,Countryside,2017,1114.90
+1057,Quảng Nam,Countryside,2018,1117.70
+1058,Quảng Nam,Countryside,2019,1117.80
+1059,Quảng Nam,Countryside,2020,1108.84
+1060,Quảng Nam,Countryside,2021,1117.22
+1061,Quảng Nam,Countryside,2022,1111.99
+1062,Quảng Nam,Countryside,2023,1056.92
+1063,Quảng Nam,Countryside,2024,1069.10
+1064,Quảng Ngãi,City,2011,182.48
+1065,Quảng Ngãi,City,2012,184.79
+1066,Quảng Ngãi,City,2013,187.06
+1067,Quảng Ngãi,City,2014,189.40
+1068,Quảng Ngãi,City,2015,191.80
+1069,Quảng Ngãi,City,2016,194.20
+1070,Quảng Ngãi,City,2017,196.60
+1071,Quảng Ngãi,City,2018,199.10
+1072,Quảng Ngãi,City,2019,201.50
+1073,Quảng Ngãi,City,2020,260.18
+1074,Quảng Ngãi,City,2021,262.66
+1075,Quảng Ngãi,City,2022,272.22
+1076,Quảng Ngãi,City,2023,272.96
+1077,Quảng Ngãi,City,2024,280.86
+1078,Quảng Ngãi,Countryside,2011,1037.64
+1079,Quảng Ngãi,Countryside,2012,1037.04
+1080,Quảng Ngãi,Countryside,2013,1035.99
+1081,Quảng Ngãi,Countryside,2014,1035.12
+1082,Quảng Ngãi,Countryside,2015,1034.40
+1083,Quảng Ngãi,Countryside,2016,1033.30
+1084,Quảng Ngãi,Countryside,2017,1032.40
+1085,Quảng Ngãi,Countryside,2018,1031.50
+1086,Quảng Ngãi,Countryside,2019,1030.40
+1087,Quảng Ngãi,Countryside,2020,973.21
+1088,Quảng Ngãi,Countryside,2021,981.48
+1089,Quảng Ngãi,Countryside,2022,973.43
+1090,Quảng Ngãi,Countryside,2023,975.16
+1091,Quảng Ngãi,Countryside,2024,979.03
+1092,Bình Định,City,2011,418.95
+1093,Bình Định,City,2012,467.51
+1094,Bình Định,City,2013,468.86
+1095,Bình Định,City,2014,470.22
+1096,Bình Định,City,2015,471.50
+1097,Bình Định,City,2016,472.90
+1098,Bình Định,City,2017,474.20
+1099,Bình Định,City,2018,475.50
+1100,Bình Định,City,2019,476.80
+1101,Bình Định,City,2020,599.85
+1102,Bình Định,City,2021,620.81
+1103,Bình Định,City,2022,619.65
+1104,Bình Định,City,2023,620.87
+1105,Bình Định,City,2024,627.85
+1106,Bình Định,Countryside,2011,1068.51
+1107,Bình Định,Countryside,2012,1020.00
+1108,Bình Định,Countryside,2013,1018.69
+1109,Bình Định,Countryside,2014,1017.38
+1110,Bình Định,Countryside,2015,1016.10
+1111,Bình Định,Countryside,2016,1014.80
+1112,Bình Định,Countryside,2017,1013.50
+1113,Bình Định,Countryside,2018,1012.20
+1114,Bình Định,Countryside,2019,1011.00
+1115,Bình Định,Countryside,2020,888.05
+1116,Bình Định,Countryside,2021,887.51
+1117,Bình Định,Countryside,2022,884.64
+1118,Bình Định,Countryside,2023,885.46
+1119,Bình Định,Countryside,2024,890.61
+1120,Phú Yên,City,2011,199.83
+1121,Phú Yên,City,2012,200.20
+1122,Phú Yên,City,2013,200.39
+1123,Phú Yên,City,2014,247.98
+1124,Phú Yên,City,2015,248.20
+1125,Phú Yên,City,2016,249.30
+1126,Phú Yên,City,2017,249.90
+1127,Phú Yên,City,2018,250.50
+1128,Phú Yên,City,2019,251.00
+1129,Phú Yên,City,2020,285.90
+1130,Phú Yên,City,2021,286.32
+1131,Phú Yên,City,2022,286.68
+1132,Phú Yên,City,2023,287.05
+1133,Phú Yên,City,2024,292.10
+1134,Phú Yên,Countryside,2011,664.14
+1135,Phú Yên,Countryside,2012,664.67
+1136,Phú Yên,Countryside,2013,664.89
+1137,Phú Yên,Countryside,2014,617.69
+1138,Phú Yên,Countryside,2015,618.00
+1139,Phú Yên,Countryside,2016,618.80
+1140,Phú Yên,Countryside,2017,620.20
+1141,Phú Yên,Countryside,2018,621.00
+1142,Phú Yên,Countryside,2019,622.20
+1143,Phú Yên,Countryside,2020,588.39
+1144,Phú Yên,Countryside,2021,589.21
+1145,Phú Yên,Countryside,2022,589.94
+1146,Phú Yên,Countryside,2023,590.65
+1147,Phú Yên,Countryside,2024,593.06
+1148,Kh�nh Ho�,City,2011,471.44
+1149,Kh�nh Ho�,City,2012,477.69
+1150,Kh�nh Ho�,City,2013,483.10
+1151,Kh�nh Ho�,City,2014,489.09
+1152,Kh�nh Ho�,City,2015,494.60
+1153,Kh�nh Ho�,City,2016,501.50
+1154,Kh�nh Ho�,City,2017,508.20
+1155,Kh�nh Ho�,City,2018,514.70
+1156,Kh�nh Ho�,City,2019,521.30
+1157,Kh�nh Ho�,City,2020,525.87
+1158,Kh�nh Ho�,City,2021,528.74
+1159,Kh�nh Ho�,City,2022,531.19
+1160,Kh�nh Ho�,City,2023,534.36
+1161,Kh�nh Ho�,City,2024,538.12
+1162,Kh�nh Ho�,Countryside,2011,698.80
+1163,Kh�nh Ho�,Countryside,2012,699.91
+1164,Kh�nh Ho�,Countryside,2013,701.81
+1165,Kh�nh Ho�,Countryside,2014,703.06
+1166,Kh�nh Ho�,Countryside,2015,703.80
+1167,Kh�nh Ho�,Countryside,2016,705.70
+1168,Kh�nh Ho�,Countryside,2017,708.10
+1169,Kh�nh Ho�,Countryside,2018,709.80
+1170,Kh�nh Ho�,Countryside,2019,711.50
+1171,Kh�nh Ho�,Countryside,2020,714.56
+1172,Kh�nh Ho�,Countryside,2021,719.32
+1173,Kh�nh Ho�,Countryside,2022,722.78
+1174,Kh�nh Ho�,Countryside,2023,726.26
+1175,Kh�nh Ho�,Countryside,2024,731.17
+1176,Ninh Thuận,City,2011,204.46
+1177,Ninh Thuận,City,2012,205.52
+1178,Ninh Thuận,City,2013,206.05
+1179,Ninh Thuận,City,2014,206.64
+1180,Ninh Thuận,City,2015,207.50
+1181,Ninh Thuận,City,2016,208.40
+1182,Ninh Thuận,City,2017,209.60
+1183,Ninh Thuận,City,2018,210.70
+1184,Ninh Thuận,City,2019,211.30
+1185,Ninh Thuận,City,2020,209.60
+1186,Ninh Thuận,City,2021,211.04
+1187,Ninh Thuận,City,2022,212.26
+1188,Ninh Thuận,City,2023,213.43
+1189,Ninh Thuận,City,2024,221.71
+1190,Ninh Thuận,Countryside,2011,363.40
+1191,Ninh Thuận,Countryside,2012,365.79
+1192,Ninh Thuận,Countryside,2013,367.23
+1193,Ninh Thuận,Countryside,2014,368.79
+1194,Ninh Thuận,Countryside,2015,370.80
+1195,Ninh Thuận,Countryside,2016,373.10
+1196,Ninh Thuận,Countryside,2017,375.70
+1197,Ninh Thuận,Countryside,2018,378.10
+1198,Ninh Thuận,Countryside,2019,379.70
+1199,Ninh Thuận,Countryside,2020,384.05
+1200,Ninh Thuận,Countryside,2021,385.01
+1201,Ninh Thuận,Countryside,2022,386.42
+1202,Ninh Thuận,Countryside,2023,387.78
+1203,Ninh Thuận,Countryside,2024,390.98
+1204,Bình Thuận,City,2011,461.00
+1205,Bình Thuận,City,2012,463.03
+1206,Bình Thuận,City,2013,463.56
+1207,Bình Thuận,City,2014,464.12
+1208,Bình Thuận,City,2015,464.80
+1209,Bình Thuận,City,2016,466.50
+1210,Bình Thuận,City,2017,467.70
+1211,Bình Thuận,City,2018,468.80
+1212,Bình Thuận,City,2019,469.30
+1213,Bình Thuận,City,2020,472.14
+1214,Bình Thuận,City,2021,479.85
+1215,Bình Thuận,City,2022,483.27
+1216,Bình Thuận,City,2023,485.88
+1217,Bình Thuận,City,2024,488.76
+1218,Bình Thuận,Countryside,2011,719.68
+1219,Bình Thuận,Countryside,2012,726.56
+1220,Bình Thuận,Countryside,2013,731.11
+1221,Bình Thuận,Countryside,2014,733.14
+1222,Bình Thuận,Countryside,2015,740.60
+1223,Bình Thuận,Countryside,2016,747.10
+1224,Bình Thuận,Countryside,2017,752.80
+1225,Bình Thuận,Countryside,2018,758.40
+1226,Bình Thuận,Countryside,2019,763.00
+1227,Bình Thuận,Countryside,2020,767.12
+1228,Bình Thuận,Countryside,2021,766.46
+1229,Bình Thuận,Countryside,2022,768.79
+1230,Bình Thuận,Countryside,2023,772.91
+1231,Bình Thuận,Countryside,2024,777.46
+1232,Tây Nguyên,City,2011,1497.87
+1233,Tây Nguyên,City,2012,1522.34
+1234,Tây Nguyên,City,2013,1546.75
+1235,Tây Nguyên,City,2014,1574.47
+1236,Tây Nguyên,City,2015,1596.20
+1237,Tây Nguyên,City,2016,1617.10
+1238,Tây Nguyên,City,2017,1638.20
+1239,Tây Nguyên,City,2018,1661.00
+1240,Tây Nguyên,City,2019,1681.70
+1241,Tây Nguyên,City,2020,1707.32
+1242,Tây Nguyên,City,2021,1745.10
+1243,Tây Nguyên,City,2022,1769.54
+1244,Tây Nguyên,City,2023,1814.57
+1245,Tây Nguyên,City,2024,1845.94
+1246,Tây Nguyên,Countryside,2011,3780.17
+1247,Tây Nguyên,Countryside,2012,3835.67
+1248,Tây Nguyên,Countryside,2013,3891.99
+1249,Tây Nguyên,Countryside,2014,3934.73
+1250,Tây Nguyên,Countryside,2015,3988.10
+1251,Tây Nguyên,Countryside,2016,4039.90
+1252,Tây Nguyên,Countryside,2017,4087.30
+1253,Tây Nguyên,Countryside,2018,4135.40
+1254,Tây Nguyên,Countryside,2019,4179.60
+1255,Tây Nguyên,Countryside,2020,4224.79
+1256,Tây Nguyên,Countryside,2021,4288.60
+1257,Tây Nguyên,Countryside,2022,4322.84
+1258,Tây Nguyên,Countryside,2023,4349.04
+1259,Tây Nguyên,Countryside,2024,4395.10
+1260,Kon Tum,City,2011,149.94
+1261,Kon Tum,City,2012,152.90
+1262,Kon Tum,City,2013,155.65
+1263,Kon Tum,City,2014,158.50
+1264,Kon Tum,City,2015,161.60
+1265,Kon Tum,City,2016,164.70
+1266,Kon Tum,City,2017,167.80
+1267,Kon Tum,City,2018,171.00
+1268,Kon Tum,City,2019,173.70
+1269,Kon Tum,City,2020,181.94
+1270,Kon Tum,City,2021,185.28
+1271,Kon Tum,City,2022,188.51
+1272,Kon Tum,City,2023,191.80
+1273,Kon Tum,City,2024,194.83
+1274,Kon Tum,Countryside,2011,301.67
+1275,Kon Tum,Countryside,2012,309.81
+1276,Kon Tum,Countryside,2013,317.60
+1277,Kon Tum,Countryside,2014,325.71
+1278,Kon Tum,Countryside,2015,334.30
+1279,Kon Tum,Countryside,2016,343.10
+1280,Kon Tum,Countryside,2017,352.20
+1281,Kon Tum,Countryside,2018,361.40
+1282,Kon Tum,Countryside,2019,369.70
+1283,Kon Tum,Countryside,2020,373.71
+1284,Kon Tum,Countryside,2021,383.50
+1285,Kon Tum,Countryside,2022,391.41
+1286,Kon Tum,Countryside,2023,399.46
+1287,Kon Tum,Countryside,2024,406.98
+1288,Gia Lai,City,2011,382.73
+1289,Gia Lai,City,2012,390.10
+1290,Gia Lai,City,2013,397.25
+1291,Gia Lai,City,2014,403.59
+1292,Gia Lai,City,2015,410.80
+1293,Gia Lai,City,2016,417.40
+1294,Gia Lai,City,2017,424.30
+1295,Gia Lai,City,2018,432.60
+1296,Gia Lai,City,2019,440.30
+1297,Gia Lai,City,2020,447.21
+1298,Gia Lai,City,2021,458.94
+1299,Gia Lai,City,2022,466.73
+1300,Gia Lai,City,2023,475.13
+1301,Gia Lai,City,2024,482.84
+1302,Gia Lai,Countryside,2011,953.37
+1303,Gia Lai,Countryside,2012,969.86
+1304,Gia Lai,Countryside,2013,985.73
+1305,Gia Lai,Countryside,2014,999.54
+1306,Gia Lai,Countryside,2015,1015.60
+1307,Gia Lai,Countryside,2016,1029.70
+1308,Gia Lai,Countryside,2017,1044.70
+1309,Gia Lai,Countryside,2018,1063.10
+1310,Gia Lai,Countryside,2019,1079.90
+1311,Gia Lai,Countryside,2020,1094.62
+1312,Gia Lai,Countryside,2021,1110.70
+1313,Gia Lai,Countryside,2022,1124.20
+1314,Gia Lai,Countryside,2023,1138.76
+1315,Gia Lai,Countryside,2024,1152.06
+1316,Đắk Lắk,City,2011,424.92
+1317,Đắk Lắk,City,2012,430.31
+1318,Đắk Lắk,City,2013,435.84
+1319,Đắk Lắk,City,2014,439.93
+1320,Đắk Lắk,City,2015,444.80
+1321,Đắk Lắk,City,2016,450.10
+1322,Đắk Lắk,City,2017,454.90
+1323,Đắk Lắk,City,2018,459.10
+1324,Đắk Lắk,City,2019,463.30
+1325,Đắk Lắk,City,2020,466.48
+1326,Đắk Lắk,City,2021,473.81
+1327,Đắk Lắk,City,2022,478.32
+1328,Đắk Lắk,City,2023,502.40
+1329,Đắk Lắk,City,2024,507.79
+1330,Đắk Lắk,Countryside,2011,1335.50
+1331,Đắk Lắk,Countryside,2012,1346.95
+1332,Đắk Lắk,Countryside,2013,1358.72
+1333,Đắk Lắk,Countryside,2014,1365.90
+1334,Đắk Lắk,Countryside,2015,1375.40
+1335,Đắk Lắk,Countryside,2016,1386.30
+1336,Đắk Lắk,Countryside,2017,1395.40
+1337,Đắk Lắk,Countryside,2018,1402.40
+1338,Đắk Lắk,Countryside,2019,1409.30
+1339,Đắk Lắk,Countryside,2020,1420.46
+1340,Đắk Lắk,Countryside,2021,1435.19
+1341,Đắk Lắk,Countryside,2022,1440.12
+1342,Đắk Lắk,Countryside,2023,1429.10
+1343,Đắk Lắk,Countryside,2024,1438.38
+1344,Đắk Nông,City,2011,76.09
+1345,Đắk Nông,City,2012,78.83
+1346,Đắk Nông,City,2013,81.90
+1347,Đắk Nông,City,2014,85.16
+1348,Đắk Nông,City,2015,87.60
+1349,Đắk Nông,City,2016,89.50
+1350,Đắk Nông,City,2017,91.60
+1351,Đắk Nông,City,2018,93.70
+1352,Đắk Nông,City,2019,95.40
+1353,Đắk Nông,City,2020,97.49
+1354,Đắk Nông,City,2021,107.98
+1355,Đắk Nông,City,2022,112.43
+1356,Đắk Nông,City,2023,115.52
+1357,Đắk Nông,City,2024,120.03
+1358,Đắk Nông,Countryside,2011,436.58
+1359,Đắk Nông,Countryside,2012,450.54
+1360,Đắk Nông,Countryside,2013,466.20
+1361,Đắk Nông,Countryside,2014,479.80
+1362,Đắk Nông,Countryside,2015,492.90
+1363,Đắk Nông,Countryside,2016,504.90
+1364,Đắk Nông,Countryside,2017,513.30
+1365,Đắk Nông,Countryside,2018,521.70
+1366,Đắk Nông,Countryside,2019,530.40
+1367,Đắk Nông,Countryside,2020,540.42
+1368,Đắk Nông,Countryside,2021,556.44
+1369,Đắk Nông,Countryside,2022,558.13
+1370,Đắk Nông,Countryside,2023,566.43
+1371,Đắk Nông,Countryside,2024,575.65
+1372,Lâm Đồng,City,2011,464.19
+1373,Lâm Đồng,City,2012,470.20
+1374,Lâm Đồng,City,2013,476.12
+1375,Lâm Đồng,City,2014,487.29
+1376,Lâm Đồng,City,2015,491.40
+1377,Lâm Đồng,City,2016,495.40
+1378,Lâm Đồng,City,2017,499.60
+1379,Lâm Đồng,City,2018,504.60
+1380,Lâm Đồng,City,2019,509.00
+1381,Lâm Đồng,City,2020,514.21
+1382,Lâm Đồng,City,2021,519.10
+1383,Lâm Đồng,City,2022,523.55
+1384,Lâm Đồng,City,2023,529.72
+1385,Lâm Đồng,City,2024,540.44
+1386,Lâm Đồng,Countryside,2011,753.05
+1387,Lâm Đồng,Countryside,2012,758.51
+1388,Lâm Đồng,Countryside,2013,763.74
+1389,Lâm Đồng,Countryside,2014,763.78
+1390,Lâm Đồng,Countryside,2015,769.90
+1391,Lâm Đồng,Countryside,2016,775.90
+1392,Lâm Đồng,Countryside,2017,781.70
+1393,Lâm Đồng,Countryside,2018,786.80
+1394,Lâm Đồng,Countryside,2019,790.30
+1395,Lâm Đồng,Countryside,2020,795.59
+1396,Lâm Đồng,Countryside,2021,802.80
+1397,Lâm Đồng,Countryside,2022,808.98
+1398,Lâm Đồng,Countryside,2023,815.28
+1399,Lâm Đồng,Countryside,2024,822.03
+1400,Đông Nam Bộ,City,2011,9151.84
+1401,Đông Nam Bộ,City,2012,9367.60
+1402,Đông Nam Bộ,City,2013,9583.53
+1403,Đông Nam Bộ,City,2014,10067.13
+1404,Đông Nam Bộ,City,2015,10279.60
+1405,Đông Nam Bộ,City,2016,10473.40
+1406,Đông Nam Bộ,City,2017,10679.90
+1407,Đông Nam Bộ,City,2018,11018.90
+1408,Đông Nam Bộ,City,2019,11617.60
+1409,Đông Nam Bộ,City,2020,12172.29
+1410,Đông Nam Bộ,City,2021,12165.00
+1411,Đông Nam Bộ,City,2022,12498.15
+1412,Đông Nam Bộ,City,2023,12640.19
+1413,Đông Nam Bộ,City,2024,12865.79
+1414,Đông Nam Bộ,Countryside,2011,5853.71
+1415,Đông Nam Bộ,Countryside,2012,6003.63
+1416,Đông Nam Bộ,Countryside,2013,6147.12
+1417,Đông Nam Bộ,Countryside,2014,6026.38
+1418,Đông Nam Bộ,Countryside,2015,6168.90
+1419,Đông Nam Bộ,Countryside,2016,6315.90
+1420,Đông Nam Bộ,Countryside,2017,6452.70
+1421,Đông Nam Bộ,Countryside,2018,6508.50
+1422,Đông Nam Bộ,Countryside,2019,6312.70
+1423,Đông Nam Bộ,Countryside,2020,6170.61
+1424,Đông Nam Bộ,Countryside,2021,6150.00
+1425,Đông Nam Bộ,Countryside,2022,6312.61
+1426,Đông Nam Bộ,Countryside,2023,6378.61
+1427,Đông Nam Bộ,Countryside,2024,6373.61
+1428,Bình Phước,City,2011,162.04
+1429,Bình Phước,City,2012,170.08
+1430,Bình Phước,City,2013,178.55
+1431,Bình Phước,City,2014,187.16
+1432,Bình Phước,City,2015,196.60
+1433,Bình Phước,City,2016,207.00
+1434,Bình Phước,City,2017,216.60
+1435,Bình Phước,City,2018,227.30
+1436,Bình Phước,City,2019,238.50
+1437,Bình Phước,City,2020,243.05
+1438,Bình Phước,City,2021,247.54
+1439,Bình Phước,City,2022,303.96
+1440,Bình Phước,City,2023,307.37
+1441,Bình Phước,City,2024,312.88
+1442,Bình Phước,Countryside,2011,737.52
+1443,Bình Phước,Countryside,2012,741.27
+1444,Bình Phước,Countryside,2013,744.94
+1445,Bình Phước,Countryside,2014,747.20
+1446,Bình Phước,Countryside,2015,750.60
+1447,Bình Phước,Countryside,2016,755.70
+1448,Bình Phước,Countryside,2017,755.90
+1449,Bình Phước,Countryside,2018,757.60
+1450,Bình Phước,Countryside,2019,759.20
+1451,Bình Phước,Countryside,2020,768.03
+1452,Bình Phước,Countryside,2021,776.75
+1453,Bình Phước,Countryside,2022,730.71
+1454,Bình Phước,Countryside,2023,738.12
+1455,Bình Phước,Countryside,2024,749.42
+1456,Tây Ninh,City,2011,174.43
+1457,Tây Ninh,City,2012,178.90
+1458,Tây Ninh,City,2013,182.58
+1459,Tây Ninh,City,2014,206.55
+1460,Tây Ninh,City,2015,206.90
+1461,Tây Ninh,City,2016,207.20
+1462,Tây Ninh,City,2017,207.50
+1463,Tây Ninh,City,2018,207.80
+1464,Tây Ninh,City,2019,208.30
+1465,Tây Ninh,City,2020,381.11
+1466,Tây Ninh,City,2021,382.70
+1467,Tây Ninh,City,2022,386.73
+1468,Tây Ninh,City,2023,389.17
+1469,Tây Ninh,City,2024,391.65
+1470,Tây Ninh,Countryside,2011,915.63
+1471,Tây Ninh,Countryside,2012,924.51
+1472,Tây Ninh,Countryside,2013,928.81
+1473,Tây Ninh,Countryside,2014,914.18
+1474,Tây Ninh,Countryside,2015,923.00
+1475,Tây Ninh,Countryside,2016,932.50
+1476,Tây Ninh,Countryside,2017,943.60
+1477,Tây Ninh,Countryside,2018,952.90
+1478,Tây Ninh,Countryside,2019,963.40
+1479,Tây Ninh,Countryside,2020,797.22
+1480,Tây Ninh,Countryside,2021,799.27
+1481,Tây Ninh,Countryside,2022,802.03
+1482,Tây Ninh,Countryside,2023,805.74
+1483,Tây Ninh,Countryside,2024,811.11
+1484,Bình Dương,City,2011,1096.63
+1485,Bình Dương,City,2012,1152.93
+1486,Bình Dương,City,2013,1205.02
+1487,Bình Dương,City,2014,1522.34
+1488,Bình Dương,City,2015,1587.50
+1489,Bình Dương,City,2016,1632.30
+1490,Bình Dương,City,2017,1696.90
+1491,Bình Dương,City,2018,1875.70
+1492,Bình Dương,City,2019,1961.90
+1493,Bình Dương,City,2020,2178.17
+1494,Bình Dương,City,2021,2189.68
+1495,Bình Dương,City,2022,2327.43
+1496,Bình Dương,City,2023,2377.78
+1497,Bình Dương,City,2024,2464.29
+1498,Bình Dương,Countryside,2011,603.31
+1499,Bình Dương,Countryside,2012,636.78
+1500,Bình Dương,Countryside,2013,668.46
+1501,Bình Dương,Countryside,2014,455.50
+1502,Bình Dương,Countryside,2015,481.70
+1503,Bình Dương,Countryside,2016,506.50
+1504,Bình Dương,Countryside,2017,530.30
+1505,Bình Dương,Countryside,2018,469.50
+1506,Bình Dương,Countryside,2019,494.50
+1507,Bình Dương,Countryside,2020,402.38
+1508,Bình Dương,Countryside,2021,407.11
+1509,Bình Dương,Countryside,2022,435.70
+1510,Bình Dương,Countryside,2023,445.60
+1511,Bình Dương,Countryside,2024,406.32
+1512,Đồng Nai,City,2011,881.69
+1513,Đồng Nai,City,2012,899.94
+1514,Đồng Nai,City,2013,916.54
+1515,Đồng Nai,City,2014,935.60
+1516,Đồng Nai,City,2015,954.20
+1517,Đồng Nai,City,2016,973.70
+1518,Đồng Nai,City,2017,990.60
+1519,Đồng Nai,City,2018,1006.30
+1520,Đồng Nai,City,2019,1371.80
+1521,Đồng Nai,City,2020,1406.73
+1522,Đồng Nai,City,2021,1418.64
+1523,Đồng Nai,City,2022,1470.31
+1524,Đồng Nai,City,2023,1498.50
+1525,Đồng Nai,City,2024,1526.57
+1526,Đồng Nai,Countryside,2011,1780.09
+1527,Đồng Nai,Countryside,2012,1819.11
+1528,Đồng Nai,Countryside,2013,1854.88
+1529,Đồng Nai,Countryside,2014,1895.69
+1530,Đồng Nai,Countryside,2015,1935.80
+1531,Đồng Nai,Countryside,2016,1977.60
+1532,Đồng Nai,Countryside,2017,2014.30
+1533,Đồng Nai,Countryside,2018,2048.70
+1534,Đồng Nai,Countryside,2019,1742.00
+1535,Đồng Nai,Countryside,2020,1770.67
+1536,Đồng Nai,Countryside,2021,1750.46
+1537,Đồng Nai,Countryside,2022,1785.50
+1538,Đồng Nai,Countryside,2023,1812.37
+1539,Đồng Nai,Countryside,2024,1838.88
+1540,Bà Rịa - Vũng Tàu,City,2011,535.99
+1541,Bà Rịa - Vũng Tàu,City,2012,553.68
+1542,Bà Rịa - Vũng Tàu,City,2013,572.85
+1543,Bà Rịa - Vũng Tàu,City,2014,591.15
+1544,Bà Rịa - Vũng Tàu,City,2015,606.80
+1545,Bà Rịa - Vũng Tàu,City,2016,624.20
+1546,Bà Rịa - Vũng Tàu,City,2017,639.80
+1547,Bà Rịa - Vũng Tàu,City,2018,656.70
+1548,Bà Rịa - Vũng Tàu,City,2019,675.60
+1549,Bà Rịa - Vũng Tàu,City,2020,672.31
+1550,Bà Rịa - Vũng Tàu,City,2021,686.87
+1551,Bà Rịa - Vũng Tàu,City,2022,711.89
+1552,Bà Rịa - Vũng Tàu,City,2023,723.37
+1553,Bà Rịa - Vũng Tàu,City,2024,741.81
+1554,Bà Rịa - Vũng Tàu,Countryside,2011,504.81
+1555,Bà Rịa - Vũng Tàu,Countryside,2012,504.17
+1556,Bà Rịa - Vũng Tàu,Countryside,2013,504.01
+1557,Bà Rịa - Vũng Tàu,Countryside,2014,502.23
+1558,Bà Rịa - Vũng Tàu,Countryside,2015,497.50
+1559,Bà Rịa - Vũng Tàu,Countryside,2016,493.40
+1560,Bà Rịa - Vũng Tàu,Countryside,2017,487.40
+1561,Bà Rịa - Vũng Tàu,Countryside,2018,481.60
+1562,Bà Rịa - Vũng Tàu,Countryside,2019,476.60
+1563,Bà Rịa - Vũng Tàu,Countryside,2020,495.63
+1564,Bà Rịa - Vũng Tàu,Countryside,2021,489.21
+1565,Bà Rịa - Vũng Tàu,Countryside,2022,466.81
+1566,Bà Rịa - Vũng Tàu,Countryside,2023,464.13
+1567,Bà Rịa - Vũng Tàu,Countryside,2024,452.84
+1568,TP.H? Ch� Minh,City,2011,6301.07
+1569,TP.H? Ch� Minh,City,2012,6412.07
+1570,TP.H? Ch� Minh,City,2013,6527.99
+1571,TP.H? Ch� Minh,City,2014,6624.34
+1572,TP.H? Ch� Minh,City,2015,6727.60
+1573,TP.H? Ch� Minh,City,2016,6829.00
+1574,TP.H? Ch� Minh,City,2017,6928.50
+1575,TP.H? Ch� Minh,City,2018,7045.10
+1576,TP.H? Ch� Minh,City,2019,7161.50
+1577,TP.H? Ch� Minh,City,2020,7290.92
+1578,TP.H? Ch� Minh,City,2021,7239.63
+1579,TP.H? Ch� Minh,City,2022,7297.85
+1580,TP.H? Ch� Minh,City,2023,7344.00
+1581,TP.H? Ch� Minh,City,2024,7428.60
+1582,TP.H? Ch� Minh,Countryside,2011,1312.36
+1583,TP.H? Ch� Minh,Countryside,2012,1377.80
+1584,TP.H? Ch� Minh,Countryside,2013,1446.03
+1585,TP.H? Ch� Minh,Countryside,2014,1511.58
+1586,TP.H? Ch� Minh,Countryside,2015,1580.30
+1587,TP.H? Ch� Minh,Countryside,2016,1650.20
+1588,TP.H? Ch� Minh,Countryside,2017,1721.20
+1589,TP.H? Ch� Minh,Countryside,2018,1798.20
+1590,TP.H? Ch� Minh,Countryside,2019,1877.00
+1591,TP.H? Ch� Minh,Countryside,2020,1936.68
+1592,TP.H? Ch� Minh,Countryside,2021,1927.21
+1593,TP.H? Ch� Minh,Countryside,2022,2091.87
+1594,TP.H? Ch� Minh,Countryside,2023,2112.66
+1595,TP.H? Ch� Minh,Countryside,2024,2115.03
+1596,Đồng bằng sông Cửu Long,City,2011,4090.05
+1597,Đồng bằng sông Cửu Long,City,2012,4128.00
+1598,Đồng bằng sông Cửu Long,City,2013,4161.11
+1599,Đồng bằng sông Cửu Long,City,2014,4201.18
+1600,Đồng bằng sông Cửu Long,City,2015,4224.90
+1601,Đồng bằng sông Cửu Long,City,2016,4252.00
+1602,Đồng bằng sông Cửu Long,City,2017,4279.90
+1603,Đồng bằng sông Cửu Long,City,2018,4307.30
+1604,Đồng bằng sông Cửu Long,City,2019,4357.70
+1605,Đồng bằng sông Cửu Long,City,2020,4482.78
+1606,Đồng bằng sông Cửu Long,City,2021,4595.34
+1607,Đồng bằng sông Cửu Long,City,2022,4658.88
+1608,Đồng bằng sông Cửu Long,City,2023,4780.76
+1609,Đồng bằng sông Cửu Long,City,2024,4850.99
+1610,Đồng bằng sông Cửu Long,Countryside,2011,13127.66
+1611,Đồng bằng sông Cửu Long,Countryside,2012,13124.60
+1612,Đồng bằng sông Cửu Long,Countryside,2013,13108.83
+1613,Đồng bằng sông Cửu Long,Countryside,2014,13068.63
+1614,Đồng bằng sông Cửu Long,Countryside,2015,13041.90
+1615,Đồng bằng sông Cửu Long,Countryside,2016,13019.60
+1616,Đồng bằng sông Cửu Long,Countryside,2017,12999.70
+1617,Đồng bằng sông Cửu Long,Countryside,2018,12973.40
+1618,Đồng bằng sông Cửu Long,Countryside,2019,12924.80
+1619,Đồng bằng sông Cửu Long,Countryside,2020,12835.77
+1620,Đồng bằng sông Cửu Long,Countryside,2021,12827.28
+1621,Đồng bằng sông Cửu Long,Countryside,2022,12773.22
+1622,Đồng bằng sông Cửu Long,Countryside,2023,12682.52
+1623,Đồng bằng sông Cửu Long,Countryside,2024,12696.87
+1624,Long An,City,2011,258.73
+1625,Long An,City,2012,264.35
+1626,Long An,City,2013,268.57
+1627,Long An,City,2014,270.31
+1628,Long An,City,2015,270.50
+1629,Long An,City,2016,271.30
+1630,Long An,City,2017,271.80
+1631,Long An,City,2018,272.20
+1632,Long An,City,2019,272.50
+1633,Long An,City,2020,312.52
+1634,Long An,City,2021,316.46
+1635,Long An,City,2022,318.58
+1636,Long An,City,2023,320.79
+1637,Long An,City,2024,326.83
+1638,Long An,Countryside,2011,1245.35
+1639,Long An,Countryside,2012,1285.41
+1640,Long An,Countryside,2013,1319.28
+1641,Long An,Countryside,2014,1341.39
+1642,Long An,Countryside,2015,1355.80
+1643,Long An,Countryside,2016,1373.90
+1644,Long An,Countryside,2017,1390.50
+1645,Long An,Countryside,2018,1406.70
+1646,Long An,Countryside,2019,1422.60
+1647,Long An,Countryside,2020,1401.13
+1648,Long An,Countryside,2021,1409.30
+1649,Long An,Countryside,2022,1415.68
+1650,Long An,Countryside,2023,1422.64
+1651,Long An,Countryside,2024,1429.42
+1652,Tiền Giang,City,2011,230.52
+1653,Tiền Giang,City,2012,231.87
+1654,Tiền Giang,City,2013,233.69
+1655,Tiền Giang,City,2014,240.25
+1656,Tiền Giang,City,2015,242.00
+1657,Tiền Giang,City,2016,243.60
+1658,Tiền Giang,City,2017,245.30
+1659,Tiền Giang,City,2018,246.30
+1660,Tiền Giang,City,2019,247.30
+1661,Tiền Giang,City,2020,251.91
+1662,Tiền Giang,City,2021,253.64
+1663,Tiền Giang,City,2022,271.92
+1664,Tiền Giang,City,2023,273.68
+1665,Tiền Giang,City,2024,302.56
+1666,Tiền Giang,Countryside,2011,1452.09
+1667,Tiền Giang,Countryside,2012,1460.59
+1668,Tiền Giang,Countryside,2013,1472.08
+1669,Tiền Giang,Countryside,2014,1475.83
+1670,Tiền Giang,Countryside,2015,1486.70
+1671,Tiền Giang,Countryside,2016,1496.50
+1672,Tiền Giang,Countryside,2017,1506.60
+1673,Tiền Giang,Countryside,2018,1512.80
+1674,Tiền Giang,Countryside,2019,1519.00
+1675,Tiền Giang,Countryside,2020,1520.64
+1676,Tiền Giang,Countryside,2021,1525.77
+1677,Tiền Giang,Countryside,2022,1513.32
+1678,Tiền Giang,Countryside,2023,1516.97
+1679,Tiền Giang,Countryside,2024,1493.51
+1680,Bến Tre,City,2011,125.79
+1681,Bến Tre,City,2012,125.94
+1682,Bến Tre,City,2013,125.98
+1683,Bến Tre,City,2014,126.01
+1684,Bến Tre,City,2015,126.10
+1685,Bến Tre,City,2016,126.10
+1686,Bến Tre,City,2017,126.20
+1687,Bến Tre,City,2018,126.30
+1688,Bến Tre,City,2019,126.40
+1689,Bến Tre,City,2020,126.66
+1690,Bến Tre,City,2021,128.27
+1691,Bến Tre,City,2022,133.04
+1692,Bến Tre,City,2023,170.43
+1693,Bến Tre,City,2024,174.65
+1694,Bến Tre,Countryside,2011,1136.87
+1695,Bến Tre,Countryside,2012,1140.79
+1696,Bến Tre,Countryside,2013,1143.73
+1697,Bến Tre,Countryside,2014,1146.50
+1698,Bến Tre,Countryside,2015,1149.70
+1699,Bến Tre,Countryside,2016,1152.50
+1700,Bến Tre,Countryside,2017,1156.20
+1701,Bến Tre,Countryside,2018,1159.70
+1702,Bến Tre,Countryside,2019,1162.70
+1703,Bến Tre,Countryside,2020,1165.74
+1704,Bến Tre,Countryside,2021,1167.43
+1705,Bến Tre,Countryside,2022,1164.96
+1706,Bến Tre,Countryside,2023,1128.90
+1707,Bến Tre,Countryside,2024,1131.62
+1708,Trà Vinh,City,2011,157.59
+1709,Trà Vinh,City,2012,159.59
+1710,Trà Vinh,City,2013,162.10
+1711,Trà Vinh,City,2014,164.95
+1712,Trà Vinh,City,2015,166.50
+1713,Trà Vinh,City,2016,168.40
+1714,Trà Vinh,City,2017,169.80
+1715,Trà Vinh,City,2018,172.00
+1716,Trà Vinh,City,2019,174.10
+1717,Trà Vinh,City,2020,175.83
+1718,Trà Vinh,City,2021,178.36
+1719,Trà Vinh,City,2022,184.86
+1720,Trà Vinh,City,2023,186.85
+1721,Trà Vinh,City,2024,189.01
+1722,Trà Vinh,Countryside,2011,846.76
+1723,Trà Vinh,Countryside,2012,845.53
+1724,Trà Vinh,Countryside,2013,843.53
+1725,Trà Vinh,Countryside,2014,841.29
+1726,Trà Vinh,Countryside,2015,840.30
+1727,Trà Vinh,Countryside,2016,839.20
+1728,Trà Vinh,Countryside,2017,838.30
+1729,Trà Vinh,Countryside,2018,836.80
+1730,Trà Vinh,Countryside,2019,835.20
+1731,Trà Vinh,Countryside,2020,834.11
+1732,Trà Vinh,Countryside,2021,840.27
+1733,Trà Vinh,Countryside,2022,834.40
+1734,Trà Vinh,Countryside,2023,833.03
+1735,Trà Vinh,Countryside,2024,834.88
+1736,Vĩnh Long,City,2011,157.00
+1737,Vĩnh Long,City,2012,157.03
+1738,Vĩnh Long,City,2013,168.30
+1739,Vĩnh Long,City,2014,168.54
+1740,Vĩnh Long,City,2015,168.80
+1741,Vĩnh Long,City,2016,169.10
+1742,Vĩnh Long,City,2017,169.40
+1743,Vĩnh Long,City,2018,169.70
+1744,Vĩnh Long,City,2019,169.80
+1745,Vĩnh Long,City,2020,232.07
+1746,Vĩnh Long,City,2021,233.72
+1747,Vĩnh Long,City,2022,233.94
+1748,Vĩnh Long,City,2023,235.50
+1749,Vĩnh Long,City,2024,237.83
+1750,Vĩnh Long,Countryside,2011,867.85
+1751,Vĩnh Long,Countryside,2012,865.57
+1752,Vĩnh Long,Countryside,2013,855.55
+1753,Vĩnh Long,Countryside,2014,855.21
+1754,Vĩnh Long,Countryside,2015,854.40
+1755,Vĩnh Long,Countryside,2016,853.80
+1756,Vĩnh Long,Countryside,2017,853.20
+1757,Vĩnh Long,Countryside,2018,853.00
+1758,Vĩnh Long,Countryside,2019,852.80
+1759,Vĩnh Long,Countryside,2020,790.90
+1760,Vĩnh Long,Countryside,2021,795.30
+1761,Vĩnh Long,Countryside,2022,794.88
+1762,Vĩnh Long,Countryside,2023,794.13
+1763,Vĩnh Long,Countryside,2024,799.44
+1764,Đồng Tháp,City,2011,295.16
+1765,Đồng Tháp,City,2012,294.52
+1766,Đồng Tháp,City,2013,293.89
+1767,Đồng Tháp,City,2014,293.29
+1768,Đồng Tháp,City,2015,292.70
+1769,Đồng Tháp,City,2016,292.10
+1770,Đồng Tháp,City,2017,291.60
+1771,Đồng Tháp,City,2018,292.30
+1772,Đồng Tháp,City,2019,304.70
+1773,Đồng Tháp,City,2020,306.15
+1774,Đồng Tháp,City,2021,323.21
+1775,Đồng Tháp,City,2022,323.88
+1776,Đồng Tháp,City,2023,325.82
+1777,Đồng Tháp,City,2024,328.61
+1778,Đồng Tháp,Countryside,2011,1358.08
+1779,Đồng Tháp,Countryside,2012,1351.65
+1780,Đồng Tháp,Countryside,2013,1345.32
+1781,Đồng Tháp,Countryside,2014,1339.09
+1782,Đồng Tháp,Countryside,2015,1333.00
+1783,Đồng Tháp,Countryside,2016,1326.90
+1784,Đồng Tháp,Countryside,2017,1320.90
+1785,Đồng Tháp,Countryside,2018,1313.80
+1786,Đồng Tháp,Countryside,2019,1294.10
+1787,Đồng Tháp,Countryside,2020,1293.87
+1788,Đồng Tháp,Countryside,2021,1278.10
+1789,Đồng Tháp,Countryside,2022,1276.29
+1790,Đồng Tháp,Countryside,2023,1274.43
+1791,Đồng Tháp,Countryside,2024,1272.51
+1792,An Giang,City,2011,608.65
+1793,An Giang,City,2012,609.60
+1794,An Giang,City,2013,608.51
+1795,An Giang,City,2014,607.11
+1796,An Giang,City,2015,606.60
+1797,An Giang,City,2016,605.80
+1798,An Giang,City,2017,605.60
+1799,An Giang,City,2018,605.00
+1800,An Giang,City,2019,602.60
+1801,An Giang,City,2020,601.64
+1802,An Giang,City,2021,646.02
+1803,An Giang,City,2022,644.77
+1804,An Giang,City,2023,705.29
+1805,An Giang,City,2024,706.49
+1806,An Giang,Countryside,2011,1488.90
+1807,An Giang,Countryside,2012,1468.34
+1808,An Giang,Countryside,2013,1443.11
+1809,An Giang,Countryside,2014,1417.48
+1810,An Giang,Countryside,2015,1394.20
+1811,An Giang,Countryside,2016,1370.60
+1812,An Giang,Countryside,2017,1348.60
+1813,An Giang,Countryside,2018,1326.00
+1814,An Giang,Countryside,2019,1304.80
+1815,An Giang,Countryside,2020,1302.89
+1816,An Giang,Countryside,2021,1263.48
+1817,An Giang,Countryside,2022,1260.74
+1818,An Giang,Countryside,2023,1200.97
+1819,An Giang,Countryside,2024,1206.09
+1820,Kiên Giang,City,2011,460.48
+1821,Kiên Giang,City,2012,463.95
+1822,Kiên Giang,City,2013,467.23
+1823,Kiên Giang,City,2014,470.35
+1824,Kiên Giang,City,2015,473.40
+1825,Kiên Giang,City,2016,476.90
+1826,Kiên Giang,City,2017,480.60
+1827,Kiên Giang,City,2018,484.60
+1828,Kiên Giang,City,2019,488.80
+1829,Kiên Giang,City,2020,491.75
+1830,Kiên Giang,City,2021,504.36
+1831,Kiên Giang,City,2022,522.73
+1832,Kiên Giang,City,2023,528.66
+1833,Kiên Giang,City,2024,527.28
+1834,Kiên Giang,Countryside,2011,1233.97
+1835,Kiên Giang,Countryside,2012,1234.20
+1836,Kiên Giang,Countryside,2013,1233.88
+1837,Kiên Giang,Countryside,2014,1233.05
+1838,Kiên Giang,Countryside,2015,1232.00
+1839,Kiên Giang,Countryside,2016,1231.80
+1840,Kiên Giang,Countryside,2017,1232.30
+1841,Kiên Giang,Countryside,2018,1233.50
+1842,Kiên Giang,Countryside,2019,1234.90
+1843,Kiên Giang,Countryside,2020,1237.11
+1844,Kiên Giang,Countryside,2021,1247.90
+1845,Kiên Giang,Countryside,2022,1229.03
+1846,Kiên Giang,Countryside,2023,1226.68
+1847,Kiên Giang,Countryside,2024,1239.38
+1848,Cần Thơ,City,2011,797.12
+1849,Cần Thơ,City,2012,805.03
+1850,Cần Thơ,City,2013,811.19
+1851,Cần Thơ,City,2014,817.53
+1852,Cần Thơ,City,2015,824.10
+1853,Cần Thơ,City,2016,833.00
+1854,Cần Thơ,City,2017,842.70
+1855,Cần Thơ,City,2018,850.60
+1856,Cần Thơ,City,2019,861.30
+1857,Cần Thơ,City,2020,868.84
+1858,Cần Thơ,City,2021,876.92
+1859,Cần Thơ,City,2022,882.86
+1860,Cần Thơ,City,2023,887.83
+1861,Cần Thơ,City,2024,898.66
+1862,Cần Thơ,Countryside,2011,398.82
+1863,Cần Thơ,Countryside,2012,395.90
+1864,Cần Thơ,Countryside,2013,392.04
+1865,Cần Thơ,Countryside,2014,388.19
+1866,Cần Thơ,Countryside,2015,384.40
+1867,Cần Thơ,Countryside,2016,381.60
+1868,Cần Thơ,Countryside,2017,379.80
+1869,Cần Thơ,Countryside,2018,377.10
+1870,Cần Thơ,Countryside,2019,374.70
+1871,Cần Thơ,Countryside,2020,371.89
+1872,Cần Thơ,Countryside,2021,370.07
+1873,Cần Thơ,Countryside,2022,369.49
+1874,Cần Thơ,Countryside,2023,371.05
+1875,Cần Thơ,Countryside,2024,373.07
+1876,Hậu Giang,City,2011,156.50
+1877,Hậu Giang,City,2012,160.16
+1878,Hậu Giang,City,2013,163.72
+1879,Hậu Giang,City,2014,167.33
+1880,Hậu Giang,City,2015,171.10
+1881,Hậu Giang,City,2016,175.00
+1882,Hậu Giang,City,2017,178.90
+1883,Hậu Giang,City,2018,183.00
+1884,Hậu Giang,City,2019,197.70
+1885,Hậu Giang,City,2020,204.05
+1886,Hậu Giang,City,2021,212.69
+1887,Hậu Giang,City,2022,204.99
+1888,Hậu Giang,City,2023,204.66
+1889,Hậu Giang,City,2024,205.15
+1890,Hậu Giang,Countryside,2011,596.23
+1891,Hậu Giang,Countryside,2012,590.57
+1892,Hậu Giang,Countryside,2013,584.17
+1893,Hậu Giang,Countryside,2014,577.62
+1894,Hậu Giang,Countryside,2015,571.30
+1895,Hậu Giang,Countryside,2016,565.00
+1896,Hậu Giang,Countryside,2017,558.30
+1897,Hậu Giang,Countryside,2018,551.90
+1898,Hậu Giang,Countryside,2019,534.40
+1899,Hậu Giang,Countryside,2020,525.73
+1900,Hậu Giang,Countryside,2021,517.20
+1901,Hậu Giang,Countryside,2022,524.48
+1902,Hậu Giang,Countryside,2023,523.63
+1903,Hậu Giang,Countryside,2024,524.86
+1904,Sóc Trăng,City,2011,351.60
+1905,Sóc Trăng,City,2012,360.93
+1906,Sóc Trăng,City,2013,358.92
+1907,Sóc Trăng,City,2014,372.44
+1908,Sóc Trăng,City,2015,375.80
+1909,Sóc Trăng,City,2016,379.30
+1910,Sóc Trăng,City,2017,382.50
+1911,Sóc Trăng,City,2018,385.50
+1912,Sóc Trăng,City,2019,388.50
+1913,Sóc Trăng,City,2020,386.61
+1914,Sóc Trăng,City,2021,391.40
+1915,Sóc Trăng,City,2022,405.65
+1916,Sóc Trăng,City,2023,406.02
+1917,Sóc Trăng,City,2024,411.15
+1918,Sóc Trăng,Countryside,2011,922.32
+1919,Sóc Trăng,Countryside,2012,905.49
+1920,Sóc Trăng,Countryside,2013,896.05
+1921,Sóc Trăng,Countryside,2014,873.17
+1922,Sóc Trăng,Countryside,2015,860.50
+1923,Sóc Trăng,Countryside,2016,848.30
+1924,Sóc Trăng,Countryside,2017,835.80
+1925,Sóc Trăng,Countryside,2018,823.30
+1926,Sóc Trăng,Countryside,2019,811.00
+1927,Sóc Trăng,Countryside,2020,809.13
+1928,Sóc Trăng,Countryside,2021,815.42
+1929,Sóc Trăng,Countryside,2022,792.17
+1930,Sóc Trăng,Countryside,2023,792.78
+1931,Sóc Trăng,Countryside,2024,794.19
+1932,Bạc Liêu,City,2011,230.73
+1933,Bạc Liêu,City,2012,233.37
+1934,Bạc Liêu,City,2013,235.94
+1935,Bạc Liêu,City,2014,238.59
+1936,Bạc Liêu,City,2015,241.30
+1937,Bạc Liêu,City,2016,244.10
+1938,Bạc Liêu,City,2017,246.70
+1939,Bạc Liêu,City,2018,249.50
+1940,Bạc Liêu,City,2019,252.30
+1941,Bạc Liêu,City,2020,253.64
+1942,Bạc Liêu,City,2021,254.94
+1943,Bạc Liêu,City,2022,255.89
+1944,Bạc Liêu,City,2023,256.85
+1945,Bạc Liêu,City,2024,257.92
+1946,Bạc Liêu,Countryside,2011,636.14
+1947,Bạc Liêu,Countryside,2012,638.77
+1948,Bạc Liêu,Countryside,2013,641.10
+1949,Bạc Liêu,Countryside,2014,643.57
+1950,Bạc Liêu,Countryside,2015,646.00
+1951,Bạc Liêu,Countryside,2016,648.70
+1952,Bạc Liêu,Countryside,2017,651.00
+1953,Bạc Liêu,Countryside,2018,653.50
+1954,Bạc Liêu,Countryside,2019,656.00
+1955,Bạc Liêu,Countryside,2020,659.84
+1956,Bạc Liêu,Countryside,2021,663.57
+1957,Bạc Liêu,Countryside,2022,665.92
+1958,Bạc Liêu,Countryside,2023,668.32
+1959,Bạc Liêu,Countryside,2024,670.77
+1960,Cà Mau,City,2011,260.20
+1961,Cà Mau,City,2012,261.66
+1962,Cà Mau,City,2013,263.06
+1963,Cà Mau,City,2014,264.48
+1964,Cà Mau,City,2015,266.00
+1965,Cà Mau,City,2016,267.30
+1966,Cà Mau,City,2017,268.80
+1967,Cà Mau,City,2018,270.30
+1968,Cà Mau,City,2019,271.70
+1969,Cà Mau,City,2020,271.11
+1970,Cà Mau,City,2021,275.35
+1971,Cà Mau,City,2022,275.77
+1972,Cà Mau,City,2023,278.39
+1973,Cà Mau,City,2024,284.86
+1974,Cà Mau,Countryside,2011,944.30
+1975,Cà Mau,Countryside,2012,941.80
+1976,Cà Mau,Countryside,2013,939.01
+1977,Cà Mau,Countryside,2014,936.25
+1978,Cà Mau,Countryside,2015,933.60
+1979,Cà Mau,Countryside,2016,930.80
+1980,Cà Mau,Countryside,2017,928.20
+1981,Cà Mau,Countryside,2018,925.30
+1982,Cà Mau,Countryside,2019,922.60
+1983,Cà Mau,Countryside,2020,922.78
+1984,Cà Mau,Countryside,2021,933.40
+1985,Cà Mau,Countryside,2022,931.86
+1986,Cà Mau,Countryside,2023,928.99
+1987,Cà Mau,Countryside,2024,927.14
