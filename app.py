@@ -114,7 +114,7 @@ def format_number(num):
         return f'{round(actual_num / 1000000, 1)} M'
     return f'{round(actual_num // 1000, 1)} K'
 
-col = st.columns((2, 1.5, 4), gap='Medium')
+col = st.columns((2, 2, 3.5), gap='Medium')
 
 with col[2]:
     # st.markdown(f'#### Total Population {selected_year}')
